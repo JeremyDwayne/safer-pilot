@@ -4,16 +4,7 @@ import { CreatePost } from "~/app/_components/create-post";
 import { getServerAuthSession } from "~/server/auth";
 import { api } from "~/trpc/server";
 
-export async function getServerSideProps() {
-  const res = await fetch("http://localhost:8080").then((x) => x.json());
-  return {
-    props: {
-      status: res.status, //should be "ok"
-    },
-  };
-}
-
-export default async function Home({ status }): any
+export default async function Home() {
   const hello = await api.post.hello.query({ text: "from tRPC" });
   const session = await getServerAuthSession();
 
