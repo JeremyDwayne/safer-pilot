@@ -14,7 +14,6 @@ export default async function Home() {
         <h1 className="text-5xl font-extrabold tracking-tight sm:text-[5rem]">
           Safer <span className="text-sky-blue">Pilot</span>
         </h1>
-        <div>Status is: {status}</div>
         <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 md:gap-8">
           <Link
             className="hover:bg-white/20 flex max-w-xs flex-col gap-4 rounded-xl bg-midnight-blue/10 p-4"
