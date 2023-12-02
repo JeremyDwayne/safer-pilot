@@ -30,7 +30,7 @@ export default function Home() {
             deploy it.
           </div>
         </Link>
-        <Register />
+        {/* <Register /> */}
       </div>
     </div>
   );

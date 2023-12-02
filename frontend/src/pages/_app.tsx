@@ -12,7 +12,7 @@ export const metadata = {
 const MyApp: AppType = ({ Component, pageProps }) => {
   return (
     <Layout>
-      <Component {...pageProps} />;
+      <Component {...pageProps} />
     </Layout>
   );
 };

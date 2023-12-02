@@ -1,4 +1,4 @@
-import { Button, Modal, Checkbox, Label, TextInput } from "flowbite-react";
+import { Button, Modal, Label, TextInput } from "flowbite-react";
 import { type SyntheticEvent, useState } from "react";
 import { useRouter } from "next/router";
 
@@ -22,8 +22,6 @@ function Register() {
       }),
     });
 
-    console.log("Submitted");
-
     await router.push("/login");
   };
 
@@ -44,7 +42,6 @@ function Register() {
                 <TextInput
                   id="name"
                   type="string"
-                  placeholder="John Smith"
                   onChange={(e) => setName(e.target.value)}
                   required
                 />
@@ -56,7 +53,6 @@ function Register() {
                 <TextInput
                   id="email"
                   type="email"
-                  placeholder="name@flowbite.com"
                   onChange={(e) => setEmail(e.target.value)}
                   required
                 />

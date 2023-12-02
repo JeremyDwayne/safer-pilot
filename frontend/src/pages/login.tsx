@@ -12,48 +12,50 @@ function Login() {
 
     await fetch("http://localhost:8000/api/login", {
       method: "POST",
-      headers: { "Content-Type": "application/json" },
+      headers: {
+        "Content-Type": "application/json",
+      },
+      credentials: "include",
       body: JSON.stringify({
         email,
         password,
       }),
     });
 
-    console.log("Submitted");
-
-    await router.push("/login");
+    await router.push("/");
   };
 
   return (
-    <form className="flex max-w-md flex-col gap-4" onSubmit={submit}>
-      <h1 className="text-center">Please Login</h1>
-      <div>
-        <div className="mb-2 block">
-          <Label htmlFor="email" value="Email" />
+    <>
+      <form className="flex max-w-md flex-col gap-4" onSubmit={submit}>
+        <h1 className="text-center">Please Login</h1>
+        <div>
+          <div className="mb-2 block">
+            <Label htmlFor="email" value="Email" />
+          </div>
+          <TextInput
+            id="email"
+            type="email"
+            onChange={(e) => setEmail(e.target.value)}
+            required
+          />
         </div>
-        <TextInput
-          id="email"
-          type="email"
-          placeholder="name@flowbite.com"
-          onChange={(e) => setEmail(e.target.value)}
-          required
-        />
-      </div>
-      <div>
-        <div className="mb-2 block">
-          <Label htmlFor="password" value="Password" />
+        <div>
+          <div className="mb-2 block">
+            <Label htmlFor="password" value="Password" />
+          </div>
+          <TextInput
+            id="password"
+            type="password"
+            onChange={(e) => setPassword(e.target.value)}
+            required
+          />
         </div>
-        <TextInput
-          id="password"
-          type="password"
-          onChange={(e) => setPassword(e.target.value)}
-          required
-        />
-      </div>
-      <Button type="submit" color="blue">
-        Submit
-      </Button>
-    </form>
+        <Button type="submit" color="blue">
+          Submit
+        </Button>
+      </form>
+    </>
   );
 }
 

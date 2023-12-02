@@ -14,6 +14,7 @@ func main() {
 	app := fiber.New()
 
 	app.Use(cors.New(cors.Config{
+		AllowOrigins:     "http://localhost:3000, https://saferpilot.com",
 		AllowCredentials: true,
 	}))
 	app.Use(recover.New())
