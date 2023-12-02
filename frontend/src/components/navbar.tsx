@@ -1,4 +1,5 @@
 import { Avatar, Dropdown, Navbar } from "flowbite-react";
+import Image from "next/image";
 
 function Nav() {
   return (
@@ -8,10 +9,12 @@ function Nav() {
       className="border-gray-200 bg-gray-50 dark:border-gray-700 dark:bg-gray-800"
     >
       <Navbar.Brand href="https://flowbite-react.com">
-        <img
+        <Image
           src="/logo.png"
           className="mr-3 h-6 sm:h-9"
           alt="Safer Pilot Logo"
+          width={36}
+          height={36}
         />
         <div className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">
           Safer<span className="text-sky-blue">Pilot</span>
