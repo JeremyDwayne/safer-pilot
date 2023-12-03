@@ -2,7 +2,7 @@ import { Button, Label, TextInput } from "flowbite-react";
 import { type SyntheticEvent, useState } from "react";
 import { useRouter } from "next/router";
 
-function Login() {
+export default function Login() {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const router = useRouter();
@@ -58,5 +58,3 @@ function Login() {
     </>
   );
 }
-
-export default Login;

@@ -2,7 +2,7 @@ import { Button, Modal, Label, TextInput } from "flowbite-react";
 import { type SyntheticEvent, useState } from "react";
 import { useRouter } from "next/router";
 
-function Register() {
+export default function Register() {
   const [openModal, setOpenModal] = useState(false);
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
@@ -27,9 +27,7 @@ function Register() {
 
   return (
     <>
-      <Button onClick={() => setOpenModal(true)} color="success">
-        Toggle modal
-      </Button>
+      <Button onClick={() => setOpenModal(true)}>Toggle modal</Button>
       <Modal show={openModal} onClose={() => setOpenModal(false)}>
         <Modal.Header>Please Register</Modal.Header>
         <Modal.Body>
@@ -68,9 +66,7 @@ function Register() {
                   required
                 />
               </div>
-              <Button type="submit" color="blue">
-                Submit
-              </Button>
+              <Button type="submit">Submit</Button>
             </form>
           </div>
         </Modal.Body>
@@ -78,5 +74,3 @@ function Register() {
     </>
   );
 }
-
-export default Register;

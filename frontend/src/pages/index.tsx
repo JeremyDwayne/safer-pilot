@@ -1,11 +1,35 @@
 import Link from "next/link";
 import Register from "~/components/register";
+import { useState, useEffect } from "react";
+
+type User = {
+  id: number;
+  name: string;
+  email: string;
+};
 
 export default function Home() {
+  // const [user, setUser] = useState<User | null>(null);
+  //
+  // useEffect(() => {
+  //   (async () => {
+  //     try {
+  //       const response = await fetch("http://localhost:8000/api/user", {
+  //         credentials: "include",
+  //       });
+  //       const content = (await response.json()) as User;
+  //       console.log(content);
+  //       setUser(content);
+  //     } catch (err) {
+  //       console.log(err);
+  //     }
+  //   })();
+  // });
+
   return (
     <div className="container flex flex-col items-center justify-center gap-12 px-4 py-16">
       <h1 className="text-5xl font-extrabold tracking-tight sm:text-[5rem]">
-        Safer<span className="text-sky-blue">Pilot</span>
+        Safer<span className="text-blue-400">Pilot</span>
       </h1>
       <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 md:gap-8">
         <Link
@@ -30,7 +54,7 @@ export default function Home() {
             deploy it.
           </div>
         </Link>
-        {/* <Register /> */}
+        <Register />
       </div>
     </div>
   );

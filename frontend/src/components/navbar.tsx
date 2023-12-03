@@ -1,14 +1,25 @@
 import { Avatar, Dropdown, Navbar } from "flowbite-react";
 import Image from "next/image";
+import Link from "next/link";
+import { type SyntheticEvent } from "react";
+import { useRouter } from "next/router";
 
-function Nav() {
+export default function Nav() {
+  const router = useRouter();
+
+  const signout = async (e: SyntheticEvent) => {
+    e.preventDefault();
+
+    await fetch("http://localhost:8000/api/logout", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+    });
+
+    await router.push("/");
+  };
   return (
-    <Navbar
-      fluid
-      rounded
-      className="border-gray-200 bg-gray-50 dark:border-gray-700 dark:bg-gray-800"
-    >
-      <Navbar.Brand href="https://flowbite-react.com">
+    <Navbar className="bg-gray-50">
+      <Navbar.Brand href="https://saferpilot.com">
         <Image
           src="/logo.png"
           className="mr-3 h-6 sm:h-9"
@@ -16,8 +27,11 @@ function Nav() {
           width={36}
           height={36}
         />
-        <div className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">
-          Safer<span className="text-sky-blue">Pilot</span>
+        <div
+          className="self-center whitespace-nowrap text-xl font-semibold dark:text-white"
+          style={{ width: 0, overflow: "visible" }}
+        >
+          Safer<span className="text-blue-400">Pilot</span>
         </div>
       </Navbar.Brand>
       <div className="flex md:order-2">
@@ -42,7 +56,11 @@ function Nav() {
           <Dropdown.Item>Settings</Dropdown.Item>
           <Dropdown.Item>Earnings</Dropdown.Item>
           <Dropdown.Divider />
-          <Dropdown.Item>Sign out</Dropdown.Item>
+          <Dropdown.Item>
+            <Link onClick={signout} href="#">
+              Sign out
+            </Link>
+          </Dropdown.Item>
         </Dropdown>
         <Navbar.Toggle />
       </div>
@@ -58,5 +76,3 @@ function Nav() {
     </Navbar>
   );
 }
-
-export default Nav;

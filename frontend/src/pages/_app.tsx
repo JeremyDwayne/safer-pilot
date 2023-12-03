@@ -1,19 +1,21 @@
 import { type AppType } from "next/dist/shared/lib/utils";
 import Layout from "~/components/layout";
+import Head from "next/head";
 
 import "~/styles/globals.css";
 
-export const metadata = {
-  title: "Safer Pilot",
-  description: "Stay proficient, stay safe!",
-  icons: [{ rel: "icon", url: "/favicon.ico" }],
-};
-
 const MyApp: AppType = ({ Component, pageProps }) => {
   return (
-    <Layout>
-      <Component {...pageProps} />
-    </Layout>
+    <>
+      <Head>
+        <title>Safer Pilot</title>
+        <meta name="description" content="Stay proficient, stay safe!" />
+        <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+      </Head>
+      <Layout>
+        <Component {...pageProps} />
+      </Layout>
+    </>
   );
 };
 
