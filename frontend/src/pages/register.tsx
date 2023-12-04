@@ -3,6 +3,7 @@ import { type SyntheticEvent, useState } from "react";
 import { useRouter } from "next/router";
 
 export default function Login() {
+  const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const router = useRouter();
@@ -10,25 +11,34 @@ export default function Login() {
   const submit = async (e: SyntheticEvent) => {
     e.preventDefault();
 
-    await fetch("http://localhost:8000/api/login", {
+    await fetch("http://localhost:8000/api/register", {
       method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      credentials: "include",
+      headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
+        name,
         email,
         password,
       }),
     });
 
-    await router.push("/");
+    await router.push("/login");
   };
 
   return (
     <>
       <form className="flex max-w-md flex-col gap-4" onSubmit={submit}>
         <h1 className="text-center">Please Login</h1>
+        <div>
+          <div className="mb-2 block">
+            <Label htmlFor="name" value="Name" />
+          </div>
+          <TextInput
+            id="name"
+            type="string"
+            onChange={(e) => setName(e.target.value)}
+            required
+          />
+        </div>
         <div>
           <div className="mb-2 block">
             <Label htmlFor="email" value="Email" />
@@ -52,7 +62,7 @@ export default function Login() {
           />
         </div>
         <Button type="submit" color="blue">
-          Login
+          Register
         </Button>
       </form>
     </>

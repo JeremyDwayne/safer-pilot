@@ -4,19 +4,91 @@ import Link from "next/link";
 import { type SyntheticEvent } from "react";
 import { useRouter } from "next/router";
 
-export default function Nav() {
-  const router = useRouter();
+interface AuthProps {
+  auth: boolean;
+}
 
-  const signout = async (e: SyntheticEvent) => {
+export default function Nav({ auth }: AuthProps) {
+  const router = useRouter();
+  const user = {
+    name: "Test User",
+    email: "test@example.com",
+  };
+
+  const logout = async (e: SyntheticEvent) => {
     e.preventDefault();
 
     await fetch("http://localhost:8000/api/logout", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
+      credentials: "include",
     });
 
-    await router.push("/");
+    auth = false;
+    await router.push("/login");
   };
+
+  let menu;
+
+  if (!auth) {
+    menu = (
+      <Dropdown
+        arrowIcon={false}
+        inline
+        label={
+          <Avatar
+            alt="User settings"
+            img="https://flowbite.com/docs/images/people/profile-picture-5.jpg"
+            rounded
+          />
+        }
+      >
+        <Dropdown.Item>
+          <Link href="/login">Login</Link>
+        </Dropdown.Item>
+        <Dropdown.Item>
+          <Link href="/register">Register</Link>
+        </Dropdown.Item>
+      </Dropdown>
+    );
+  } else {
+    menu = (
+      <Dropdown
+        arrowIcon={false}
+        inline
+        label={
+          <Avatar
+            alt="User settings"
+            img="https://flowbite.com/docs/images/people/profile-picture-5.jpg"
+            rounded
+          />
+        }
+      >
+        <Dropdown.Header>
+          <span className="block text-sm">{user.name}</span>
+          <span className="block truncate text-sm font-medium">
+            {user.email}
+          </span>
+        </Dropdown.Header>
+        <Dropdown.Item>
+          <Link href="#">Dashboard</Link>
+        </Dropdown.Item>
+        <Dropdown.Item>
+          <Link href="#">Settings</Link>
+        </Dropdown.Item>
+        <Dropdown.Item>
+          <Link href="#">Earnings</Link>
+        </Dropdown.Item>
+        <Dropdown.Divider />
+        <Dropdown.Item>
+          <Link onClick={logout} href="#">
+            Logout
+          </Link>
+        </Dropdown.Item>
+      </Dropdown>
+    );
+  }
+
   return (
     <Navbar className="bg-gray-50">
       <Navbar.Brand href="https://saferpilot.com">
@@ -35,33 +107,7 @@ export default function Nav() {
         </div>
       </Navbar.Brand>
       <div className="flex md:order-2">
-        <Dropdown
-          arrowIcon={false}
-          inline
-          label={
-            <Avatar
-              alt="User settings"
-              img="https://flowbite.com/docs/images/people/profile-picture-5.jpg"
-              rounded
-            />
-          }
-        >
-          <Dropdown.Header>
-            <span className="block text-sm">Bonnie Green</span>
-            <span className="block truncate text-sm font-medium">
-              name@flowbite.com
-            </span>
-          </Dropdown.Header>
-          <Dropdown.Item>Dashboard</Dropdown.Item>
-          <Dropdown.Item>Settings</Dropdown.Item>
-          <Dropdown.Item>Earnings</Dropdown.Item>
-          <Dropdown.Divider />
-          <Dropdown.Item>
-            <Link onClick={signout} href="#">
-              Sign out
-            </Link>
-          </Dropdown.Item>
-        </Dropdown>
+        {menu}
         <Navbar.Toggle />
       </div>
       <Navbar.Collapse>

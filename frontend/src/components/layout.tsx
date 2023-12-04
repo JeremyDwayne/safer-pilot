@@ -6,10 +6,15 @@ const inter = Inter({
   variable: "--font-sans",
 });
 
-export default function Layout({ children }: { children: React.ReactNode }) {
+interface Props {
+  auth: boolean;
+  children: React.ReactNode;
+}
+
+export default function Layout({ auth, children }: Props) {
   return (
     <div className={`font-sans ${inter.variable}`}>
-      <Nav />
+      <Nav auth={auth} />
       <main className="flex min-h-screen flex-col items-center">
         {children}
       </main>
