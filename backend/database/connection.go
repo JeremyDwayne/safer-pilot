@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/jeremydwayne/safer-pilot/models"
+	"github.com/jeremydwayne/safer-pilot/types"
 	"github.com/joho/godotenv"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
@@ -20,5 +20,5 @@ func Connect() {
 	}
 
 	DB = connection
-	connection.AutoMigrate(&models.User{})
+	connection.AutoMigrate(&types.User{})
 }

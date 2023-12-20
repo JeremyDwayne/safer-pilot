@@ -1,4 +1,4 @@
-package controllers
+package handlers
 
 import (
 	"os"
@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/jeremydwayne/safer-pilot/database"
-	"github.com/jeremydwayne/safer-pilot/models"
+	"github.com/jeremydwayne/safer-pilot/types"
 	"github.com/joho/godotenv"
 
 	"github.com/dgrijalva/jwt-go"
@@ -23,7 +23,7 @@ func Register(c *fiber.Ctx) error {
 
 	password, _ := bcrypt.GenerateFromPassword([]byte(data["password"]), 14)
 
-	user := models.User{
+	user := types.User{
 		Name:     data["name"],
 		Email:    data["email"],
 		Password: password,
@@ -41,7 +41,7 @@ func Login(c *fiber.Ctx) error {
 		return err
 	}
 
-	var user models.User
+	var user types.User
 
 	database.DB.Where("email = ?", data["email"]).First(&user)
 
@@ -103,7 +103,7 @@ func User(c *fiber.Ctx) error {
 
 	claims := token.Claims.(*jwt.StandardClaims)
 
-	var user models.User
+	var user types.User
 
 	database.DB.Where("id = ?", claims.Issuer).First(&user)
 
