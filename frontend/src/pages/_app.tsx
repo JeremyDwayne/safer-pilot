@@ -12,7 +12,7 @@ const MyApp: AppType = ({ Component, pageProps }) => {
 
   useEffect(() => {
     const fetchData = async () => {
-      const response = await fetch("http://localhost:8000/api/user", {
+      const response = await fetch("http://127.0.0.1:8000/api/user", {
         credentials: "include",
       });
       const user = (await response.json()) as User;

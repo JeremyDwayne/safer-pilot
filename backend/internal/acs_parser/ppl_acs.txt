@@ -1,0 +1,2110 @@
+I. Preflight Preparation
+Task A. Pilot Qualifications
+References 14 CFR parts 61, 68, 91; FAA-H-8083-2, FAA-H-8083-25; AC 68-1
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with airman and medical certificates including privileges, limitations, currency,
+and operating as pilot-in-command (PIC) as a private pilot.
+Knowledge The applicant demonstrates understanding of:
+PA.I.A.K1 Certification requirements, recent flight experience, and recordkeeping.
+PA.I.A.K2 Privileges and limitations.
+PA.I.A.K3 Medical certificates: class, expiration, privileges, temporary disqualifications.
+PA.I.A.K4 Documents required to exercise private pilot privileges.
+PA.I.A.K5 Part 68 BasicMed privileges and limitations.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.I.A.R1 Failure to distinguish proficiency versus currency.
+PA.I.A.R2 Flying unfamiliar airplanes, or operating with unfamiliar flight display systems, and
+avionics.
+Skills The applicant demonstrates the ability to:
+PA.I.A.S1 Apply requirements to act as PIC under Visual Flight Rules (VFR) in a scenario given by
+the evaluator.I. Preflight Preparation
+4
+Task B. Airworthiness Requirements
+References 14 CFR parts 39, 43, 91; FAA-H-8083-2, FAA-H-8083-25
+Objective To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with airworthiness requirements, including airplane certificates.
+Knowledge The applicant demonstrates understanding of:
+PA.I.B.K1 General airworthiness requirements and compliance for airplanes, including:
+PA.I.B.K1a a. Certificate location and expiration dates
+PA.I.B.K1b b. Required inspections and airplane logbook documentation
+PA.I.B.K1c c. Airworthiness Directives and Special Airworthiness Information Bulletins
+PA.I.B.K1d d. Purpose and procedure for obtaining a special flight permit
+PA.I.B.K2 Pilot-performed preventive maintenance.
+PA.I.B.K3 Equipment requirements for day and night VFR flight, to include:
+PA.I.B.K3a a. Flying with inoperative equipment
+PA.I.B.K3b b. Using an approved Minimum Equipment List (MEL)
+PA.I.B.K3c c. Kinds of Operation Equipment List (KOEL)
+PA.I.B.K3d d. Required discrepancy records or placards
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.I.B.R1 Inoperative equipment discovered prior to flight.
+Skills The applicant demonstrates the ability to:
+PA.I.B.S1 Locate and describe airplane airworthiness and registration information.
+PA.I.B.S2 Determine the airplane is airworthy in a scenario given by the evaluator.
+PA.I.B.S3 Apply appropriate procedures for operating with inoperative equipment in a scenario
+given by the evaluator.I. Preflight Preparation
+5
+Task C. Weather Information
+References 14 CFR part 91; FAA-H-8083-25; AC 00-6, AC 00-45, AC 00-54; AIM
+Objective To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with weather information for a flight under VFR.
+Knowledge The applicant demonstrates understanding of:
+PA.I.C.K1 Sources of weather data (e.g., National Weather Service, Flight Service) for flight
+planning purposes.
+PA.I.C.K2 Acceptable weather products and resources required for preflight planning, current and
+forecast weather for departure, en route, and arrival phases of flight.
+PA.I.C.K3
+Meteorology applicable to the departure, en route, alternate, and destination under VFR
+in Visual Meteorological Conditions (VMC) to include expected climate and hazardous
+conditions such as:
+PA.I.C.K3a a. Atmospheric composition and stability
+PA.I.C.K3b b. Wind (e.g., crosswind, tailwind, windshear, mountain wave, etc.)
+PA.I.C.K3c c. Temperature
+PA.I.C.K3d d. Moisture/precipitation
+PA.I.C.K3e e. Weather system formation, including air masses and fronts
+PA.I.C.K3f f. Clouds
+PA.I.C.K3g g. Turbulence
+PA.I.C.K3h h. Thunderstorms and microbursts
+PA.I.C.K3i i. Icing and freezing level information
+PA.I.C.K3j j. Fog/mist
+PA.I.C.K3k k. Frost
+PA.I.C.K3l l. Obstructions to visibility (e.g., smoke, haze, volcanic ash, etc.)
+PA.I.C.K4 Flight deck displays of digital weather and aeronautical information.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.I.C.R1 Factors involved in making the go/no-go and continue/divert decisions, to include:
+PA.I.C.R1a a. Circumstances that would make diversion prudent
+PA.I.C.R1b b. Personal weather minimums
+PA.I.C.R1c c. Hazardous weather conditions to include known or forecast icing or turbulence aloft
+PA.I.C.R2 Limitations of:
+PA.I.C.R2a a. Onboard weather equipment
+PA.I.C.R2b b. Aviation weather reports and forecasts
+PA.I.C.R2c c. Inflight weather resources
+Skills The applicant demonstrates the ability to:
+PA.I.C.S1 Use available aviation weather resources to obtain an adequate weather briefing.
+PA.I.C.S2
+Analyze the implications of at least three of the conditions listed in K3a through K3l
+above, using actual weather or weather conditions in a scenario provided by the
+evaluator.
+PA.I.C.S3 Correlate weather information to make a competent go/no-go decision.I. Preflight Preparation
+6
+Task D. Cross-Country Flight Planning
+References 14 CFR part 91; FAA-H-8083-2, FAA-H-8083-25; Navigation Charts; Chart Supplements;
+AIM; NOTAMs
+Objective To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with cross-country flights and VFR flight planning.
+Knowledge The applicant demonstrates understanding of:
+PA.I.D.K1
+Route planning, including consideration of different classes and special use airspace
+(SUA) and selection of appropriate and available navigation/communication systems and
+facilities.
+PA.I.D.K2 Altitude selection accounting for terrain and obstacles, glide distance of the airplane, VFR
+cruising altitudes, and the effect of wind.
+PA.I.D.K3 Calculating:
+PA.I.D.K3a a. Time, climb and descent rates, course, distance, heading, true airspeed, and
+groundspeed
+PA.I.D.K3b b. Estimated time of arrival to include conversion to universal coordinated time (UTC)
+PA.I.D.K3c c. Fuel requirements, to include reserve
+PA.I.D.K4 Elements of a VFR flight plan.
+PA.I.D.K5 Procedures for activating and closing a VFR flight plan.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.I.D.R1 Pilot.
+PA.I.D.R2 Aircraft.
+PA.I.D.R3 Environment (e.g., weather, airports, airspace, terrain, obstacles).
+PA.I.D.R4 External pressures.
+PA.I.D.R5 Limitations of air traffic control (ATC) services.
+PA.I.D.R6 Improper fuel planning.
+Skills The applicant demonstrates the ability to:
+PA.I.D.S1 Prepare, present, and explain a cross-country flight plan assigned by the evaluator
+including a risk analysis based on real-time weather, to the first fuel stop.
+PA.I.D.S2
+Apply pertinent information from appropriate and current aeronautical charts, Chart
+Supplements; NOTAMs relative to airport, runway and taxiway closures; and other flight
+publications.
+PA.I.D.S3 Create a navigation plan and simulate filing a VFR flight plan.
+PA.I.D.S4 Recalculate fuel reserves based on a scenario provided by the evaluator.I. Preflight Preparation
+7
+Task E. National Airspace System
+References 14 CFR parts 71, 91, 93; FAA-H-8083-2; Navigation Charts; AIM
+Objective To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with the National Airspace System (NAS) operating under VFR as a private pilot.
+Knowledge The applicant demonstrates understanding of:
+PA.I.E.K1 Types of airspace/airspace classes and associated requirements and limitations.
+PA.I.E.K2 Charting symbology.
+PA.I.E.K3 Special use airspace (SUA), special flight rules areas (SFRA), temporary flight restrictions
+(TFR), and other airspace areas.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.I.E.R1 Various classes and types of airspace.
+Skills The applicant demonstrates the ability to:
+PA.I.E.S1 Identify and comply with the requirements for basic VFR weather minimums and flying in
+particular classes of airspace.
+PA.I.E.S2 Correctly identify airspace and operate in accordance with associated communication and
+equipment requirements.
+PA.I.E.S3 Identify the requirements for operating in SUA or within a TFR. Identify and comply with
+SATR and SFRA operations, if applicable.I. Preflight Preparation
+8
+Task F. Performance and Limitations
+References FAA-H-8083-1, FAA-H-8083-2, FAA-H-8083-3, FAA-H-8083-25; POH/AFM
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with operating an airplane safely within the parameters of its performance
+capabilities and limitations.
+Knowledge The applicant demonstrates understanding of:
+PA.I.F.K1 Elements related to performance and limitations by explaining the use of charts, tables,
+and data to determine performance.
+PA.I.F.K2 Factors affecting performance, to include:
+PA.I.F.K2a a. Atmospheric conditions
+PA.I.F.K2b b. Pilot technique
+PA.I.F.K2c c. Airplane configuration
+PA.I.F.K2d d. Airport environment
+PA.I.F.K2e e. Loading (e.g., center of gravity)
+PA.I.F.K2f f. Weight and balance
+PA.I.F.K3 Aerodynamics.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.I.F.R1 Inaccurate use of manufacturer’s performance charts, tables, and data.
+PA.I.F.R2 Exceeding airplane limitations.
+PA.I.F.R3 Possible differences between calculated performance and actual performance.
+Skills The applicant demonstrates the ability to:
+PA.I.F.S1 Compute the weight and balance, correct out-of-center of gravity (CG) loading errors and
+determine if the weight and balance remains within limits during all phases of flight.
+PA.I.F.S2 Utilize the appropriate airplane manufacturer’s approved performance charts, tables, and
+data.I. Preflight Preparation
+9
+Task G. Operation of Systems
+References FAA-H-8083-2, FAA-H-8083-3, FAA-H-8083-23, FAA-H-8083-25; POH/AFM.
+Objective To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with the safe operation of systems on the airplane provided for the flight test.
+Knowledge The applicant demonstrates understanding of:
+PA.I.G.K1
+Airplane systems, to include:
+Note: If K1 is selected, the evaluator must assess the applicant’ s knowledge of at least
+three of the following sub-elements.
+PA.I.G.K1a a. Primary flight controls
+PA.I.G.K1b b. Secondary flight controls
+PA.I.G.K1c c. Powerplant and propeller
+PA.I.G.K1d d. Landing gear
+PA.I.G.K1e e. Fuel, oil, and hydraulic
+PA.I.G.K1f f. Electrical
+PA.I.G.K1g g. Avionics
+PA.I.G.K1h h. Pitot-static, vacuum/pressure, and associated flight instruments
+PA.I.G.K1i i. Environmental
+PA.I.G.K1j j. Deicing and anti-icing
+PA.I.G.K1k k. Water rudders (ASES, AMES)
+PA.I.G.K1l l. Oxygen system
+PA.I.G.K2 Indications of and procedures for managing system abnormalities or failures.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.I.G.R1 Failure to detect system malfunctions or failures.
+PA.I.G.R2 Improper management of a system failure.
+PA.I.G.R3 Failure to monitor and manage automated systems.
+Skills The applicant demonstrates the ability to:
+PA.I.G.S1 Operate at least three of the systems listed in K1a through K1l above appropriately.
+PA.I.G.S2 Use appropriate checklists properly.I. Preflight Preparation
+10
+Task H. Human Factors
+References FAA-H-8083-2, FAA-H-8083-25; AIM
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with personal health, flight physiology, aeromedical and human factors, as it
+relates to safety of flight.
+Note: See Appendix 6: Safety of Flight.
+Knowledge The applicant demonstrates understanding of:
+PA.I.H.K1 The symptoms (as applicable), recognition, causes, effects, and corrective actions
+associated with aeromedical and physiological issues including:
+PA.I.H.K1a a. Hypoxia
+PA.I.H.K1b b. Hyperventilation
+PA.I.H.K1c c. Middle ear and sinus problems
+PA.I.H.K1d d. Spatial disorientation
+PA.I.H.K1e e. Motion sickness
+PA.I.H.K1f f. Carbon monoxide poisoning
+PA.I.H.K1g g. Stress
+PA.I.H.K1h h. Fatigue
+PA.I.H.K1i i. Dehydration and nutrition
+PA.I.H.K1j j. Hypothermia
+PA.I.H.K1k k. Optical illusions
+PA.I.H.K1l l. Dissolved nitrogen in the bloodstream after scuba dives
+PA.I.H.K2 Regulations regarding use of alcohol and drugs.
+PA.I.H.K3 Effects of alcohol, drugs, and over-the-counter medications.
+PA.I.H.K4 Aeronautical Decision-Making (ADM).
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks encompassing:
+PA.I.H.R1 Aeromedical and physiological issues.
+PA.I.H.R2 Hazardous attitudes.
+PA.I.H.R3 Distractions, loss of situational awareness, or improper task management.
+Skills The applicant demonstrates the ability to:
+PA.I.H.S1 Associate the symptoms and effects for at least three of the conditions listed in K1a
+through K1l above with the cause(s) and corrective action(s).
+PA.I.H.S2 Perform self-assessment, including fitness for flight and personal minimums, for actual
+flight or a scenario given by the evaluator.I. Preflight Preparation
+11
+Task I. Water and Seaplane Characteristics, Seaplane Bases, Maritime Rules, and Aids to
+Marine Navigation (ASES, AMES)
+References
+FAA-H-8083-2, FAA-H-8083-23; AIM; USCG Navigation Rules, International-Inland;
+POH/AFM; Chart Supplements
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with water and seaplane characteristics, seaplane bases, maritime rules, and
+aids to marine navigation.
+Knowledge The applicant demonstrates understanding of:
+PA.I.I.K1 The characteristics of a water surface as affected by features, such as:
+PA.I.I.K1a a. Size and location
+PA.I.I.K1b b. Protected and unprotected areas
+PA.I.I.K1c c. Surface wind
+PA.I.I.K1d d. Direction and strength of water current
+PA.I.I.K1e e. Floating and partially submerged debris
+PA.I.I.K1f f. Sandbars, islands, and shoals
+PA.I.I.K1g g. Vessel traffic and wakes
+PA.I.I.K1h h. Other characteristics specific to the area
+PA.I.I.K2 Float and hull construction, and its effect on seaplane performance.
+PA.I.I.K3 Causes of porpoising and skipping, and the pilot action needed to prevent or correct
+these occurrences.
+PA.I.I.K4 How to locate and identify seaplane bases on charts or in directories.
+PA.I.I.K5 Operating restrictions at various bases.
+PA.I.I.K6 Right-of-way, steering, and sailing rules pertinent to seaplane operation.
+PA.I.I.K7 Marine navigation aids, such as buoys, beacons, lights, sound signals, and range
+markers.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.I.I.R1 Local conditions.
+PA.I.I.R2 Impact of marine traffic.
+Skills The applicant demonstrates the ability to:
+PA.I.I.S1 Assess the water surface characteristics for the proposed flight.
+PA.I.I.S2 Identify restrictions at local seaplane bases.
+PA.I.I.S3 Identify marine navigation aids.
+PA.I.I.S4 Perform correct right-of-way, steering, and sailing operations.12
+II. Preflight Procedures
+Task A. Preflight Assessment
+References FAA-H-8083-2, FAA-H-8083-3, FAA-H-8083-23; POH/AFM; AC 00-6
+Objective To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with preparing for safe flight.
+Knowledge The applicant demonstrates understanding of:
+PA.II.A.K1 Pilot self-assessment.
+PA.II.A.K2 Determining that the airplane to be used is appropriate and airworthy.
+PA.II.A.K3 Airplane preflight inspection including:
+PA.II.A.K3a a. Which items must be inspected
+PA.II.A.K3b b. The reasons for checking each item
+PA.II.A.K3c c. How to detect possible defects
+PA.II.A.K3d d. The associated regulations
+PA.II.A.K4 Environmental factors including weather, terrain, route selection, and obstructions.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.II.A.R1 Pilot.
+PA.II.A.R2 Aircraft.
+PA.II.A.R3 Environment (e.g., weather, airports, airspace, terrain, obstacles).
+PA.II.A.R4 External pressures.
+PA.II.A.R5 Aviation security concerns.
+Skills The applicant demonstrates the ability to:
+PA.II.A.S1 Inspect the airplane with reference to an appropriate checklist.
+PA.II.A.S2 Verify the airplane is in condition for safe flight and conforms to its type design.II. Preflight Procedures
+13
+Task B. Flight Deck Management
+References FAA-H-8083-2, FAA-H-8083-3; AC 120-71; POH/AFM
+Objective To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with safe flight deck management practices.
+Knowledge The applicant demonstrates understanding of:
+PA.II.B.K1 Passenger briefing requirements, to include operation and required use of safety restraint
+systems.
+PA.II.B.K2 Use of appropriate checklists.
+PA.II.B.K3 Requirements for current and appropriate navigation data.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.II.B.R1 Improper use of systems or equipment, to include automation and portable electronic
+devices.
+PA.II.B.R2 Flying with unresolved discrepancies.
+Skills The applicant demonstrates the ability to:
+PA.II.B.S1 Secure all items in the flight deck and cabin.
+PA.II.B.S2 Conduct an appropriate pre-takeoff briefing, to include identifying the PIC, use of safety
+belts, shoulder harnesses, doors, sterile flight deck, and emergency procedures.
+PA.II.B.S3 Program and manage the airplane’s automation properly.II. Preflight Procedures
+14
+Task C. Engine Starting
+References FAA-H-8083-2, FAA-H-8083-3, FAA-H-8083-25; POH/AFM
+Objective To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with recommended engine starting procedures.
+Knowledge The applicant demonstrates understanding of:
+PA.II.C.K1 Starting under various conditions.
+PA.II.C.K2 Starting the engine(s) by use of external power.
+PA.II.C.K3 Engine limitations as they relate to starting.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.II.C.R1 Propeller safety.
+Skills The applicant demonstrates the ability to:
+PA.II.C.S1 Position the airplane properly considering structures, other aircraft, wind, and the safety
+of nearby persons and property.
+PA.II.C.S2 Complete the appropriate checklist.II. Preflight Procedures
+15
+Task D. Taxiing (ASEL, AMEL)
+References FAA-H-8083-2, FAA-H-8083-3, FAA-H-8083-25; POH/AFM; AC 91-73; Chart Supplements;
+AIM
+Objective To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with safe taxi operations, including runway incursion avoidance.
+Knowledge The applicant demonstrates understanding of:
+PA.II.D.K1 Current airport aeronautical references and information resources such as the Chart
+Supplement, airport diagram, and NOTAMS.
+PA.II.D.K2 Taxi instructions/clearances.
+PA.II.D.K3 Airport markings, signs, and lights.
+PA.II.D.K4 Visual indicators for wind.
+PA.II.D.K5 Aircraft lighting.
+PA.II.D.K6 Procedures for:
+PA.II.D.K6a a. Appropriate flight deck activities prior to taxi, including route planning and identifying
+the location of Hot Spots
+PA.II.D.K6b b. Radio communications at towered and nontowered airports
+PA.II.D.K6c c. Entering or crossing runways
+PA.II.D.K6d d. Night taxi operations
+PA.II.D.K6e e. Low visibility taxi operations
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.II.D.R1 Inappropriate activities and distractions.
+PA.II.D.R2 Confirmation or expectation bias as related to taxi instructions.
+PA.II.D.R3 A taxi route or departure runway change.
+Skills The applicant demonstrates the ability to:
+PA.II.D.S1 Receive and correctly read back clearances/instructions, if applicable.
+PA.II.D.S2 Use an airport diagram or taxi chart during taxi, if published, and maintain situational
+awareness.
+PA.II.D.S3 Position the flight controls for the existing wind.
+PA.II.D.S4 Complete the appropriate checklist.
+PA.II.D.S5 Perform a brake check immediately after the airplane begins moving.
+PA.II.D.S6 Maintain positive control of the airplane during ground operations by controlling direction
+and speed without excessive use of brakes.
+PA.II.D.S7 Comply with airport/taxiway markings, signals, and ATC clearances and instructions.
+PA.II.D.S8 Position the airplane properly relative to hold lines.II. Preflight Procedures
+16
+Task E. Taxiing and Sailing (ASES, AMES)
+References FAA-H-8083-2, FAA-H-8083-23, FAA-H-8083-25; POH/AFM; AC 91-73; Chart Supplements;
+AIM
+Objective To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with safe taxiing and sailing operations, including runway incursion avoidance.
+Knowledge The applicant demonstrates understanding of:
+PA.II.E.K1 Airport information resources including Chart Supplements, airport diagram, and
+appropriate references.
+PA.II.E.K2 Taxi instructions/clearances.
+PA.II.E.K3 Airport/seaplane base markings, signs, and lights.
+PA.II.E.K4 Visual indicators for wind.
+PA.II.E.K5 Airplane lighting.
+PA.II.E.K6 Procedures for:
+PA.II.E.K6a a. Appropriate flight deck activities during taxiing or sailing
+PA.II.E.K6b b. Radio communications at towered and nontowered seaplane bases
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.II.E.R1 Inappropriate activities and distractions.
+PA.II.E.R2 Porpoising and skipping.
+PA.II.E.R3 Low visibility taxi and sailing operations.
+PA.II.E.R4 Other aircraft, vessels, and hazards.
+Skills The applicant demonstrates the ability to:
+PA.II.E.S1 Receive and correctly read back clearances/instructions, if applicable.
+PA.II.E.S2 Use an appropriate diagram or chart during taxi, if published.
+PA.II.E.S3 Comply with seaplane base/airport/taxiway markings, signals, and signs.
+PA.II.E.S4 Depart the dock/mooring buoy or beach/ramp in a safe manner, considering wind,
+current, traffic, and hazards.
+PA.II.E.S5 Complete the appropriate checklist.
+PA.II.E.S6
+Position the flight controls, flaps, doors, water rudders, and power correctly for the
+existing conditions to follow the desired course while sailing and to prevent or correct for
+porpoising and skipping during step taxi.
+PA.II.E.S7
+Exhibit procedures for steering and maneuvering while maintaining proper situational
+awareness and desired orientation, path, and position while taxiing using idle, plow, or
+step taxi technique, as appropriate.
+PA.II.E.S8 Plan and follow the most favorable taxi or sailing course for current conditions.
+PA.II.E.S9 Abide by right-of-way rules, maintain positive airplane control, proper speed, and
+separation between other aircraft, vessels, and persons.
+PA.II.E.S10 Comply with applicable taxi elements in Task D if the practical test is conducted in an
+amphibious airplane.II. Preflight Procedures
+17
+Task F. Before Takeoff Check
+References FAA-H-8083-2, FAA-H-8083-3, FAA-H-8083-23; POH/AFM
+Objective To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with the before takeoff check.
+Knowledge The applicant demonstrates understanding of:
+PA.II.F.K1 Purpose of pre-takeoff checklist items including:
+PA.II.F.K1a a. Reasons for checking each item
+PA.II.F.K1b b. Detecting malfunctions
+PA.II.F.K1c c. Ensuring the airplane is in safe operating condition as recommended by the
+manufacturer
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.II.F.R1 Division of attention while conducting pre-flight checks.
+PA.II.F.R2 Unexpected runway changes by ATC.
+PA.II.F.R3 Wake turbulence.
+PA.II.F.R4
+A powerplant failure during takeoff or other malfunction considering operational factors
+such as airplane characteristics, runway/takeoff path length, surface conditions,
+environmental conditions, and obstructions.
+Skills The applicant demonstrates the ability to:
+PA.II.F.S1 Review takeoff performance.
+PA.II.F.S2 Complete the appropriate checklist.
+PA.II.F.S3 Position the airplane appropriately considering other aircraft, vessels, and wind.
+PA.II.F.S4 Divide attention inside and outside the flight deck.
+PA.II.F.S5 Verify that engine parameters and airplane configuration are suitable.18
+III. Airport and Seaplane Base Operations
+Task A. Communications, Light Signals, and Runway Lighting Systems
+References 14 CFR part 91; FAA-H-8083-2, FAA-H-8083-25; AIM
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with normal and emergency radio communications, ATC light signals, and
+runway lighting systems to conduct safe airport operations.
+Knowledge The applicant demonstrates understanding of:
+PA.III.A.K1 How to obtain proper radio frequencies.
+PA.III.A.K2 Proper radio communication procedures and ATC phraseology.
+PA.III.A.K3 ATC light signal recognition.
+PA.III.A.K4 Appropriate use of transponders.
+PA.III.A.K5 Lost communication procedures.
+PA.III.A.K6 Equipment issues that could cause loss of communication.
+PA.III.A.K7 Radar assistance.
+PA.III.A.K8 National Transportation Safety Board (NTSB) accident/incident reporting.
+PA.III.A.K9 Runway Status Lighting Systems.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.III.A.R1 Poor communication.
+PA.III.A.R2 Failure to recognize and declare an emergency.
+PA.III.A.R3 Confirmation or expectation bias.
+Skills The applicant demonstrates the ability to:
+PA.III.A.S1 Select appropriate frequencies.
+PA.III.A.S2 Transmit using phraseology and procedures as specified in the AIM.
+PA.III.A.S3 Acknowledge radio communications and comply with instructions.III. Airport and Seaplane Base Operations
+19
+Task B. Traffic Patterns
+References 14 CFR part 91; FAA-H-8083-2, FAA-H-8083-25; AIM
+Objective To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with traffic patterns.
+Knowledge The applicant demonstrates understanding of:
+PA.III.B.K1 Towered and nontowered airport operations.
+PA.III.B.K2 Runway selection for the current conditions.
+PA.III.B.K3 Right-of-way rules.
+PA.III.B.K4 Use of automated weather and airport information.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.III.B.R1 Collision hazards, to include aircraft, terrain, obstacles, and wires.
+PA.III.B.R2 Distractions, loss of situational awareness, or improper task management.
+PA.III.B.R3 Wake turbulence or windshear.
+Skills The applicant demonstrates the ability to:
+PA.III.B.S1 Identify and interpret airport/seaplane base runways, taxiways, markings, signs, and
+lighting.
+PA.III.B.S2 Comply with recommended traffic pattern procedures.
+PA.III.B.S3 Correct for wind drift to maintain the proper ground track.
+PA.III.B.S4 Maintain orientation with the runway/landing area in use.
+PA.III.B.S5 Maintain traffic pattern altitude, ±100 feet, and the appropriate airspeed, ±10 knots.
+PA.III.B.S6 Maintain situational awareness and proper spacing from other aircraft in the traffic pattern.20
+IV. Takeoffs, Landings, and Go-Arounds
+Task A. Normal Takeoff and Climb
+References FAA-H-8083-2, FAA-H-8083-3, FAA-H-8083-23; POH/AFM; AIM
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with a normal takeoff, climb operations, and rejected takeoff procedures.
+Note: If a crosswind condition does not exist, the applicant’s knowledge of crosswind
+elements must be evaluated through oral testing.
+Knowledge The applicant demonstrates understanding of:
+PA.IV.A.K1 Effects of atmospheric conditions, including wind, on takeoff and climb performance.
+PA.IV.A.K2 VX and VY.
+PA.IV.A.K3 Appropriate airplane configuration.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.IV.A.R1 Selection of runway based on pilot capability, airplane performance and limitations,
+available distance, and wind.
+PA.IV.A.R2 Effects of:
+PA.IV.A.R2a a. Crosswind
+PA.IV.A.R2b b. Windshear
+PA.IV.A.R2c c. Tailwind
+PA.IV.A.R2d d. Wake turbulence
+PA.IV.A.R2e e. Runway surface/condition
+PA.IV.A.R3 Abnormal operations, to include planning for:
+PA.IV.A.R3a a. Rejected takeoff
+PA.IV.A.R3b b. Engine failure in takeoff/climb phase of flight
+PA.IV.A.R4 Collision hazards, to include aircraft, terrain, obstacles, wires, vehicles, vessels, persons,
+and wildlife.
+PA.IV.A.R5 Low altitude maneuvering including stall, spin, or CFIT.
+PA.IV.A.R6 Distractions, loss of situational awareness, or improper task management.
+Skills The applicant demonstrates the ability to:
+PA.IV.A.S1 Complete the appropriate checklist.
+PA.IV.A.S2 Make radio calls as appropriate.
+PA.IV.A.S3 Verify assigned/correct runway.
+PA.IV.A.S4 Ascertain wind direction with or without visible wind direction indicators.
+PA.IV.A.S5 Position the flight controls for the existing wind.
+PA.IV.A.S6 Clear the area; taxi into takeoff position and align the airplane on the runway centerline
+(ASEL, AMEL) or takeoff path (ASES, AMES).
+PA.IV.A.S7 Confirm takeoff power and proper engine and flight instrument indications prior to rotation
+(ASEL, AMEL).
+PA.IV.A.S8 Avoid excessive water spray on the propeller(s) (ASES, AMES).
+PA.IV.A.S9 Rotate and lift off at the recommended airspeed and accelerate to VY.
+PA.IV.A.S10 Retract the water rudders, as appropriate, establish and maintain the most efficient
+planing/liftoff attitude, and correct for porpoising and skipping (ASES, AMES).
+PA.IV.A.S11 Establish a pitch attitude to maintain the manufacturer’s recommended speed or VY,
++10/-5 knots.
+PA.IV.A.S12 Configure the airplane in accordance with manufacturer’s guidance.
+PA.IV.A.S13 Maintain VY +10/-5 knots to a safe maneuvering altitude.
+PA.IV.A.S14 Maintain directional control and proper wind-drift correction throughout takeoff and climb.
+PA.IV.A.S15 Comply with noise abatement procedures.IV. Takeoffs, Landings, and Go-Arounds
+21
+Task B. Normal Approach and Landing
+References FAA-H-8083-2, FAA-H-8083-3, FAA-H-8083-23; POH/AFM; AIM
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with a normal approach and landing with emphasis on proper use of flight
+controls.
+Note: If a crosswind condition does not exist, the applicant’s knowledge of crosswind
+elements must be evaluated through oral testing.
+Knowledge The applicant demonstrates understanding of:
+PA.IV.B.K1 A stabilized approach, to include energy management concepts.
+PA.IV.B.K2 Effects of atmospheric conditions, including wind, on approach and landing performance.
+PA.IV.B.K3 Wind correction techniques on approach and landing.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.IV.B.R1 Selection of runway or approach path and touchdown area based on pilot capability,
+airplane performance and limitations, available distance, and wind.
+PA.IV.B.R2 Effects of:
+PA.IV.B.R2a a. Crosswind
+PA.IV.B.R2b b. Windshear
+PA.IV.B.R2c c. Tailwind
+PA.IV.B.R2d d. Wake turbulence
+PA.IV.B.R2e e. Runway surface/condition
+PA.IV.B.R3 Planning for:
+PA.IV.B.R3a a. Go-around and rejected landing
+PA.IV.B.R3b b. Land and hold short operations (LAHSO)
+PA.IV.B.R4 Collision hazards, to include aircraft, terrain, obstacles, wires, vehicles, vessels, persons,
+and wildlife.
+PA.IV.B.R5 Low altitude maneuvering including stall, spin, or CFIT.
+PA.IV.B.R6 Distractions, loss of situational awareness, incorrect airport surface approach and landing,
+or improper task management.
+Skills The applicant demonstrates the ability to:
+PA.IV.B.S1 Complete the appropriate checklist.
+PA.IV.B.S2 Make radio calls as appropriate.
+PA.IV.B.S3 Ensure the airplane is aligned with the correct/assigned runway or landing surface.
+PA.IV.B.S4 Scan runway or landing surface and the adjoining area for traffic and obstructions.
+PA.IV.B.S5 Select and aim for a suitable touchdown point considering the wind, landing surface, and
+obstructions.
+PA.IV.B.S6 Establish the recommended approach and landing configuration and airspeed, and adjust
+pitch attitude and power as required to maintain a stabilized approach.
+PA.IV.B.S7 Maintain manufacturer’s published approach airspeed or in its absence not more than 1.3
+VSO, +10/-5 knots with gust factor applied.
+PA.IV.B.S8 Maintain directional control and appropriate crosswind correction throughout the approach
+and landing.
+PA.IV.B.S9 Make smooth, timely, and correct control application during round out and touchdown.
+PA.IV.B.S10
+Touch down at a proper pitch attitude, within 400 feet beyond or on the specified point,
+with no side drift, and with the airplane’s longitudinal axis aligned with and over the
+runway center/landing path.
+PA.IV.B.S11
+Execute a timely go-around if the approach cannot be made within the tolerances
+specified above or for any other condition that may result in an unsafe approach or
+landing.
+PA.IV.B.S12 Utilize runway incursion avoidance procedures.IV. Takeoffs, Landings, and Go-Arounds
+22IV. Takeoffs, Landings, and Go-Arounds
+23
+Task C. Soft-Field Takeoff and Climb (ASEL)
+References FAA-H-8083-2, FAA-H-8083-3; POH/AFM; AIM
+Objective To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with a soft-field takeoff, climb operations, and rejected takeoff procedures.
+Knowledge The applicant demonstrates understanding of:
+PA.IV.C.K1 Effects of atmospheric conditions, including wind, on takeoff and climb performance.
+PA.IV.C.K2 VX and VY.
+PA.IV.C.K3 Appropriate airplane configuration.
+PA.IV.C.K4 Ground effect.
+PA.IV.C.K5 Importance of weight transfer from wheels to wings.
+PA.IV.C.K6 Left turning tendencies.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.IV.C.R1 Selection of runway based on pilot capability, airplane performance and limitations,
+available distance, and wind.
+PA.IV.C.R2 Effects of:
+PA.IV.C.R2a a. Crosswind
+PA.IV.C.R2b b. Windshear
+PA.IV.C.R2c c. Tailwind
+PA.IV.C.R2d d. Wake turbulence
+PA.IV.C.R2e e. Runway surface/condition
+PA.IV.C.R3 Abnormal operations, to include planning for:
+PA.IV.C.R3a a. Rejected takeoff
+PA.IV.C.R3b b. Engine failure in takeoff/climb phase of flight
+PA.IV.C.R4 Collision hazards, to include aircraft, terrain, obstacles, wires, vehicles, persons, and
+wildlife.
+PA.IV.C.R5 Low altitude maneuvering including stall, spin, or CFIT.
+PA.IV.C.R6 Distractions, loss of situational awareness, or improper task management.
+Skills The applicant demonstrates the ability to:
+PA.IV.C.S1 Complete the appropriate checklist.
+PA.IV.C.S2 Make radio calls as appropriate.
+PA.IV.C.S3 Verify assigned/correct runway.
+PA.IV.C.S4 Ascertain wind direction with or without visible wind direction indicators.
+PA.IV.C.S5 Position the flight controls for the existing wind.
+PA.IV.C.S6
+Clear the area, maintain necessary flight control inputs, taxi into takeoff position and align
+the airplane on the runway centerline without stopping, while advancing the throttle
+smoothly to takeoff power.
+PA.IV.C.S7 Confirm takeoff power and proper engine and flight instrument indications.
+PA.IV.C.S8 Establish and maintain a pitch attitude that will transfer the weight of the airplane from the
+wheels to the wings as rapidly as possible.
+PA.IV.C.S9 Lift off at the lowest possible airspeed and remain in ground effect while accelerating to VX
+or VY, as appropriate.
+PA.IV.C.S10 Establish a pitch attitude for VX or VY, as appropriate, and maintain selected airspeed
++10/-5 knots during the climb.
+PA.IV.C.S11 Configure the airplane after a positive rate of climb has been verified or in accordance
+with airplane manufacturer’s instructions.
+PA.IV.C.S12 Maintain VX or VY, as appropriate, +10/-5 knots to a safe maneuvering altitude.
+PA.IV.C.S13 Maintain directional control and proper wind-drift correction throughout takeoff and climb.
+PA.IV.C.S14 Comply with noise abatement procedures.IV. Takeoffs, Landings, and Go-Arounds
+24
+Task D. Soft-Field Approach and Landing (ASEL)
+References FAA-H-8083-2, FAA-H-8083-3; POH/AFM; AIM
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with a soft-field approach and landing with emphasis on proper use and
+coordination of flight controls.
+Knowledge The applicant demonstrates understanding of:
+PA.IV.D.K1 A stabilized approach, to include energy management concepts.
+PA.IV.D.K2 Effects of atmospheric conditions, including wind, on approach and landing performance.
+PA.IV.D.K3 Wind correction techniques on approach and landing.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.IV.D.R1 Selection of runway based on pilot capability, airplane performance and limitations,
+available distance, and wind.
+PA.IV.D.R2 Effects of:
+PA.IV.D.R2a a. Crosswind
+PA.IV.D.R2b b. Windshear
+PA.IV.D.R2c c. Tailwind
+PA.IV.D.R2d d. Wake turbulence
+PA.IV.D.R2e e. Runway surface/condition
+PA.IV.D.R3 Planning for:
+PA.IV.D.R3a a. Go-around and rejected landing
+PA.IV.D.R3b b. Land and hold short operations (LAHSO)
+PA.IV.D.R4 Collision hazards, to include aircraft, terrain, obstacles, wires, vehicles, persons, and
+wildlife.
+PA.IV.D.R5 Low altitude maneuvering including stall, spin, or CFIT.
+PA.IV.D.R6 Distractions, loss of situational awareness, or improper task management.
+Skills The applicant demonstrates the ability to:
+PA.IV.D.S1 Complete the appropriate checklist.
+PA.IV.D.S2 Make radio calls as appropriate.
+PA.IV.D.S3 Ensure the airplane is aligned with the correct/assigned runway.
+PA.IV.D.S4 Scan the landing runway and adjoining area for traffic and obstructions.
+PA.IV.D.S5 Select and aim for a suitable touchdown point considering the wind, landing surface, and
+obstructions.
+PA.IV.D.S6 Establish the recommended approach and landing configuration and airspeed, and adjust
+pitch attitude and power as required to maintain a stabilized approach.
+PA.IV.D.S7 Maintain manufacturer’s published approach airspeed or in its absence not more than 1.3
+VSO, +10/-5 knots with gust factor applied.
+PA.IV.D.S8 Maintain directional control and appropriate crosswind correction throughout the approach
+and landing.
+PA.IV.D.S9
+Make smooth, timely, and correct control inputs during the round out and touchdown, and,
+for tricycle gear airplanes, keep the nose wheel off the surface until loss of elevator
+effectiveness.
+PA.IV.D.S10 Touch down at a proper pitch attitude with minimum sink rate, no side drift, and with the
+airplane’s longitudinal axis aligned with the center of the runway.
+PA.IV.D.S11 Maintain elevator as recommended by manufacturer during rollout and exit the “soft” area
+at a speed that would preclude sinking into the surface.
+PA.IV.D.S12 Execute a timely go-around if the approach cannot be made within the tolerances specified
+above or for any other condition that may result in an unsafe approach or landing.
+PA.IV.D.S13 Maintain proper position of the flight controls and sufficient speed to taxi while on the soft
+surface.IV. Takeoffs, Landings, and Go-Arounds
+25
+Task E. Short-Field Takeoff and Maximum Performance Climb (ASEL, AMEL)
+References FAA-H-8083-2, FAA-H-8083-3; POH/AFM; AIM
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with a short-field takeoff, maximum performance climb operations, and rejected
+takeoff procedures.
+Knowledge The applicant demonstrates understanding of:
+PA.IV.E.K1 Effects of atmospheric conditions, including wind, on takeoff and climb performance.
+PA.IV.E.K2 VX and VY.
+PA.IV.E.K3 Appropriate airplane configuration.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.IV.E.R1 Selection of runway based on pilot capability, airplane performance and limitations,
+available distance, and wind.
+PA.IV.E.R2 Effects of:
+PA.IV.E.R2a a. Crosswind
+PA.IV.E.R2b b. Windshear
+PA.IV.E.R2c c. Tailwind
+PA.IV.E.R2d d. Wake turbulence
+PA.IV.E.R2e e. Runway surface/condition
+PA.IV.E.R3 Abnormal operations, to include planning for:
+PA.IV.E.R3a a. Rejected takeoff
+PA.IV.E.R3b b. Engine failure in takeoff/climb phase of flight
+PA.IV.E.R4 Collision hazards, to include aircraft, terrain, obstacles, wires, vehicles, persons, and
+wildlife.
+PA.IV.E.R5 Low altitude maneuvering including stall, spin, or CFIT.
+PA.IV.E.R6 Distractions, loss of situational awareness, or improper task management.
+Skills The applicant demonstrates the ability to:
+PA.IV.E.S1 Complete the appropriate checklist.
+PA.IV.E.S2 Make radio calls as appropriate.
+PA.IV.E.S3 Verify assigned/correct runway.
+PA.IV.E.S4 Ascertain wind direction with or without visible wind direction indicators.
+PA.IV.E.S5 Position the flight controls for the existing wind.
+PA.IV.E.S6 Clear the area, taxi into takeoff position and align the airplane on the runway centerline
+utilizing maximum available takeoff area.
+PA.IV.E.S7 Apply brakes while setting engine power to achieve maximum performance.
+PA.IV.E.S8 Confirm takeoff power prior to brake release and verify proper engine and flight
+instrument indications prior to rotation.
+PA.IV.E.S9 Rotate and lift off at the recommended airspeed and accelerate to the recommended
+obstacle clearance airspeed or VX, +10/-5 knots.
+PA.IV.E.S10
+Establish a pitch attitude that will maintain the recommended obstacle clearance airspeed
+or VX, +10/-5 knots until clearing the obstacle or until the airplane is 50 feet above the
+surface.
+PA.IV.E.S11 Establish a pitch attitude for VY and accelerate to VY+10/-5 knots after clearing the
+obstacle or at 50 feet AGL if simulating an obstacle.
+PA.IV.E.S12 Configure the airplane in accordance with the manufacturer’s guidance after a positive
+rate of climb has been verified.
+PA.IV.E.S13 Maintain VY +10/-5 knots to a safe maneuvering altitude.
+PA.IV.E.S14 Maintain directional control and proper wind-drift correction throughout takeoff and climb.
+PA.IV.E.S15 Comply with noise abatement procedures.IV. Takeoffs, Landings, and Go-Arounds
+26
+Task F. Short-Field Approach and Landing (ASEL, AMEL)
+References FAA-H-8083-2, FAA-H-8083-3; POH/AFM; AIM
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with a short-field approach and landing with emphasis on proper use and
+coordination of flight controls.
+Knowledge The applicant demonstrates understanding of:
+PA.IV.F.K1 A stabilized approach, to include energy management concepts.
+PA.IV.F.K2 Effects of atmospheric conditions, including wind, on approach and landing performance.
+PA.IV.F.K3 Wind correction techniques on approach and landing.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.IV.F.R1 Selection of runway based on pilot capability, airplane performance and limitations,
+available distance, and wind.
+PA.IV.F.R2 Effects of:
+PA.IV.F.R2a a. Crosswind
+PA.IV.F.R2b b. Windshear
+PA.IV.F.R2c c. Tailwind
+PA.IV.F.R2d d. Wake turbulence
+PA.IV.F.R2e e. Runway surface/condition
+PA.IV.F.R3 Planning for:
+PA.IV.F.R3a a. Go-around and rejected landing
+PA.IV.F.R3b b. Land and hold short operations (LAHSO)
+PA.IV.F.R4 Collision hazards, to include aircraft, terrain, obstacles, wires, vehicles, persons, and
+wildlife.
+PA.IV.F.R5 Low altitude maneuvering including stall, spin, or CFIT.
+PA.IV.F.R6 Distractions, loss of situational awareness, or improper task management.
+Skills The applicant demonstrates the ability to:
+PA.IV.F.S1 Complete the appropriate checklist.
+PA.IV.F.S2 Make radio calls as appropriate.
+PA.IV.F.S3 Ensure the airplane is aligned with the correct/assigned runway.
+PA.IV.F.S4 Scan the landing runway and adjoining area for traffic and obstructions.
+PA.IV.F.S5 Select and aim for a suitable touchdown point considering the wind, landing surface, and
+obstructions.
+PA.IV.F.S6 Establish the recommended approach and landing configuration and airspeed, and adjust
+pitch attitude and power as required to maintain a stabilized approach.
+PA.IV.F.S7 Maintain manufacturer’s published approach airspeed or in its absence not more than 1.3
+VSO, +10/-5 knots with gust factor applied.
+PA.IV.F.S8 Maintain directional control and appropriate crosswind correction throughout the approach
+and landing.
+PA.IV.F.S9 Make smooth, timely, and correct control application during the round out and touchdown.
+PA.IV.F.S10
+Touch down at a proper pitch attitude within 200 feet beyond or on the specified point,
+threshold markings, or runway numbers, with no side drift, minimum float, and with the
+airplane’s longitudinal axis aligned with and over runway centerline.
+PA.IV.F.S11 Use manufacturer’s recommended procedures for airplane configuration and braking.
+PA.IV.F.S12
+Execute a timely go-around if the approach cannot be made within the tolerances
+specified above or for any other condition that may result in an unsafe approach or
+landing.
+PA.IV.F.S13 Utilize runway incursion avoidance procedures.IV. Takeoffs, Landings, and Go-Arounds
+27
+Task G. Confined Area Takeoff and Maximum Performance Climb (ASES, AMES)
+References FAA-H-8083-2, FAA-H-8083-3, FAA-H-8083-23; POH/AFM; AIM
+Objective To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with a confined area takeoff, and maximum performance climb operations.
+Knowledge The applicant demonstrates understanding of:
+PA.IV.G.K1 Effects of atmospheric conditions, including wind, on takeoff and climb performance.
+PA.IV.G.K2 VX and VY.
+PA.IV.G.K3 Appropriate airplane configuration.
+PA.IV.G.K4 Effects of water surface.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.IV.G.R1 Selection of takeoff path based on pilot capability, airplane performance and limitations,
+available distance, and wind.
+PA.IV.G.R2 Effects of:
+PA.IV.G.R2a a. Crosswind
+PA.IV.G.R2b b. Windshear
+PA.IV.G.R2c c. Tailwind
+PA.IV.G.R2d d. Wake turbulence
+PA.IV.G.R2e e. Water surface/condition
+PA.IV.G.R3 Abnormal operations, to include planning for:
+PA.IV.G.R3a a. Rejected takeoff
+PA.IV.G.R3b b. Engine failure in takeoff/climb phase of flight
+PA.IV.G.R4 Collision hazards, to include aircraft, terrain, obstacles, wires, vessels, persons, and
+wildlife.
+PA.IV.G.R5 Low altitude maneuvering including stall, spin, or CFIT.
+PA.IV.G.R6 Distractions, loss of situational awareness, or improper task management.
+Skills The applicant demonstrates the ability to:
+PA.IV.G.S1 Complete the appropriate checklist.
+PA.IV.G.S2 Make radio calls as appropriate.
+PA.IV.G.S3 Verify assigned/correct takeoff path.
+PA.IV.G.S4 Ascertain wind direction with or without visible wind direction indicators.
+PA.IV.G.S5 Position the flight controls for the existing wind.
+PA.IV.G.S6 Clear the area, taxi into takeoff position utilizing maximum available takeoff area and align
+the airplane on the takeoff path.
+PA.IV.G.S7 Confirm takeoff power and proper engine and flight instrument indications prior to rotation.
+PA.IV.G.S8 Establish a pitch attitude that maintains the most efficient planing/liftoff attitude and
+correct for porpoising and skipping.
+PA.IV.G.S9 Avoid excessive water spray on the propeller(s).
+PA.IV.G.S10 Rotate and liftoff at the recommended airspeed, and accelerate to the recommended
+obstacle clearance airspeed or VX.
+PA.IV.G.S11
+Establish a pitch attitude that will maintain the recommended obstacle clearance airspeed
+or VX, +10/-5 knots until the obstacle is cleared or until the airplane is 50 feet above the
+surface.
+PA.IV.G.S12 Establish a pitch attitude for VY and accelerate to VY +10/-5 knots after clearing the
+obstacle or at 50 feet AGL if simulating an obstacle.
+PA.IV.G.S13 Retract flaps, if extended, after a positive rate of climb has been verified or in accordance
+with airplane manufacturer’s guidance.
+PA.IV.G.S14 Maintain VY +10/-5 knots to a safe maneuvering altitude.
+PA.IV.G.S15 Maintain directional control and proper wind-drift correction throughout takeoff and climb.
+PA.IV.G.S16 Comply with noise abatement procedures.IV. Takeoffs, Landings, and Go-Arounds
+28
+Task H. Confined Area Approach and Landing (ASES, AMES)
+References FAA-H-8083-2, FAA-H-8083-3, FAA-H-8083-23; POH/AFM; AIM
+Objective To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with a confined area approach and landing.
+Knowledge The applicant demonstrates understanding of:
+PA.IV.H.K1 A stabilized approach, to include energy management concepts.
+PA.IV.H.K2 Effects of atmospheric conditions, including wind, on approach and landing performance.
+PA.IV.H.K3 Wind correction techniques on approach and landing.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.IV.H.R1 Selection of approach path and touchdown area based on pilot capability, airplane
+performance and limitations, available distance, and wind.
+PA.IV.H.R2 Effects of:
+PA.IV.H.R2a a. Crosswind
+PA.IV.H.R2b b. Windshear
+PA.IV.H.R2c c. Tailwind
+PA.IV.H.R2d d. Wake turbulence
+PA.IV.H.R2e e. Water surface/condition
+PA.IV.H.R3 Planning for a go-around and rejected landing.
+PA.IV.H.R4 Collision hazards, to include aircraft, terrain, obstacles, wires, vessels, persons, and
+wildlife.
+PA.IV.H.R5 Low altitude maneuvering including stall, spin, or CFIT.
+PA.IV.H.R6 Distractions, loss of situational awareness, or improper task management.
+Skills The applicant demonstrates the ability to:
+PA.IV.H.S1 Complete the appropriate checklist.
+PA.IV.H.S2 Make radio calls as appropriate.
+PA.IV.H.S3 Ensure the airplane is aligned for an approach to the correct/assigned landing surface.
+PA.IV.H.S4 Scan the landing area for traffic and obstructions.
+PA.IV.H.S5 Select and aim for a suitable touchdown point considering the wind, landing surface, and
+obstructions.
+PA.IV.H.S6 Establish the recommended approach and landing configuration and airspeed, and adjust
+pitch attitude and power as required to maintain a stabilized approach.
+PA.IV.H.S7 Maintain manufacturer’s published approach airspeed or in its absence not more than 1.3
+VSO, +10/-5 knots with gust factor applied.
+PA.IV.H.S8 Maintain directional control and appropriate crosswind correction throughout the approach
+and landing, as required.
+PA.IV.H.S9 Make smooth, timely, and correct control application during the round out and touchdown.
+PA.IV.H.S10 Contact the water at the recommended airspeed with a proper pitch attitude for the
+surface conditions.
+PA.IV.H.S11
+Touch down at a proper pitch attitude, within 200 feet beyond or on the specified point,
+with no side drift, minimum float, and with the airplane’s longitudinal axis aligned with the
+projected landing path.
+PA.IV.H.S12
+Execute a timely go-around if the approach cannot be made within the tolerances
+specified above or for any other condition that may result in an unsafe approach or
+landing.
+PA.IV.H.S13 Apply elevator control as necessary to stop in the shortest distance consistent with safety.IV. Takeoffs, Landings, and Go-Arounds
+29
+Task I. Glassy Water Takeoff and Climb (ASES, AMES)
+References FAA-H-8083-2, FAA-H-8083-23; POH/AFM; AIM
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with a glassy water takeoff and climb.
+Note: If a glassy water condition does not exist, the applicant must be evaluated by
+simulating the Task.
+Knowledge The applicant demonstrates understanding of:
+PA.IV.I.K1 Effects of atmospheric conditions, including wind, on takeoff and climb performance.
+PA.IV.I.K2 VX and VY.
+PA.IV.I.K3 Appropriate airplane configuration.
+PA.IV.I.K4 Appropriate use of glassy water takeoff and climb technique.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.IV.I.R1 Selection of takeoff path based on pilot capability, airplane performance and limitations,
+and available distance.
+PA.IV.I.R2 Water surface/condition.
+PA.IV.I.R3 Abnormal operations, to include planning for:
+PA.IV.I.R3a a. Rejected takeoff
+PA.IV.I.R3b b. Engine failure in takeoff/climb phase of flight
+PA.IV.I.R4 Collision hazards, to include aircraft, terrain, obstacles, wires, vessels, persons, and
+wildlife.
+PA.IV.I.R5 Low altitude maneuvering including stall, spin, or CFIT.
+PA.IV.I.R6 Distractions, loss of situational awareness, or improper task management.
+PA.IV.I.R7 Failure to confirm gear position in an amphibious airplane.
+Skills The applicant demonstrates the ability to:
+PA.IV.I.S1 Complete the appropriate checklist.
+PA.IV.I.S2 Make radio calls as appropriate.
+PA.IV.I.S3 Position flight controls and flaps for the existing conditions.
+PA.IV.I.S4 Clear the area; select appropriate takeoff path considering surface hazards or vessels
+and surface conditions.
+PA.IV.I.S5 Retract the water rudders as appropriate; advance the throttle smoothly to takeoff power.
+PA.IV.I.S6 Establish and maintain an appropriate planing attitude, directional control, and correct for
+porpoising, skipping, and increase in water drag.
+PA.IV.I.S7 Avoid excessive water spray on the propeller(s).
+PA.IV.I.S8 Utilize appropriate techniques to lift seaplane from the water considering surface
+conditions.
+PA.IV.I.S9 Establish proper attitude/airspeed and accelerate to VY +10/-5 knots during the climb.
+PA.IV.I.S10 Configure the airplane after a positive rate of climb has been verified or in accordance
+with airplane manufacturer’s instructions.
+PA.IV.I.S11 Maintain VY +10/-5 knots to a safe maneuvering altitude.
+PA.IV.I.S12 Maintain directional control throughout takeoff and climb.IV. Takeoffs, Landings, and Go-Arounds
+30
+Task J. Glassy Water Approach and Landing (ASES, AMES)
+References FAA-H-8083-2, FAA-H-8083-23; POH/AFM; AIM
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with a glassy water approach and landing.
+Note: If a glassy water condition does not exist, the applicant must be evaluated by
+simulating the Task.
+Knowledge The applicant demonstrates understanding of:
+PA.IV.J.K1 A stabilized approach, to include energy management concepts.
+PA.IV.J.K2 Effects of atmospheric conditions on approach and landing performance.
+PA.IV.J.K3 When and why glassy water techniques are used.
+PA.IV.J.K4 How a glassy water approach and landing is executed.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.IV.J.R1 Selection of approach path and touchdown area based on pilot capability, airplane
+performance and limitations, and available distance.
+PA.IV.J.R2 Water surface/condition.
+PA.IV.J.R3 Planning for go-around and rejected landing.
+PA.IV.J.R4 Collision hazards, to include aircraft, terrain, obstacles, wires, vessels, persons, and
+wildlife.
+PA.IV.J.R5 Low altitude maneuvering including stall, spin, or CFIT.
+PA.IV.J.R6 Distractions, loss of situational awareness, or improper task management.
+PA.IV.J.R7 Failure to confirm gear position in an amphibious airplane.
+Skills The applicant demonstrates the ability to:
+PA.IV.J.S1 Complete the appropriate checklist.
+PA.IV.J.S2 Make radio calls as appropriate.
+PA.IV.J.S3 Scan the landing area for traffic and obstructions.
+PA.IV.J.S4 Select a proper approach and landing path considering the landing surface, visual attitude
+references, water depth, and collision hazards.
+PA.IV.J.S5 Establish the recommended approach and landing configuration and airspeed, and adjust
+pitch attitude and power as required to maintain a stabilized approach.
+PA.IV.J.S6 Maintain manufacturer’s published approach airspeed or in its absence not more than 1.3
+VSO, +10/-5 knots.
+PA.IV.J.S7 Make smooth, timely, and correct power and control adjustments to maintain proper pitch
+attitude and rate of descent to touchdown.
+PA.IV.J.S8 Contact the water in a proper pitch attitude, and slow to idle taxi speed.
+PA.IV.J.S9 Maintain directional control throughout the approach and landing.IV. Takeoffs, Landings, and Go-Arounds
+31
+Task K. Rough Water Takeoff and Climb (ASES, AMES)
+References FAA-H-8083-2, FAA-H-8083-23; POH/AFM; AIM
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with a rough water takeoff and climb.
+Note: If a rough water condition does not exist, the applicant must be evaluated by
+simulating the Task.
+Knowledge The applicant demonstrates understanding of:
+PA.IV.K.K1 Effects of atmospheric conditions, including wind, on takeoff and climb performance.
+PA.IV.K.K2 VX and VY.
+PA.IV.K.K3 Appropriate airplane configuration.
+PA.IV.K.K4 Appropriate use of rough water takeoff and climb technique.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.IV.K.R1 Selection of takeoff path based on pilot capability, airplane performance and limitations,
+available distance, and wind.
+PA.IV.K.R2 Effects of:
+PA.IV.K.R2a a. Crosswind
+PA.IV.K.R2b b. Windshear
+PA.IV.K.R2c c. Tailwind
+PA.IV.K.R2d d. Wake turbulence
+PA.IV.K.R2e e. Water surface/condition
+PA.IV.K.R3 Abnormal operations, to include planning for:
+PA.IV.K.R3a a. Rejected takeoff
+PA.IV.K.R3b b. Engine failure in takeoff/climb phase of flight
+PA.IV.K.R4 Collision hazards, to include aircraft, terrain, obstacles, wires, vessels, persons, and
+wildlife.
+PA.IV.K.R5 Low altitude maneuvering including stall, spin, or CFIT.
+PA.IV.K.R6 Distractions, loss of situational awareness, or improper task management.
+PA.IV.K.R7 Failure to confirm gear position in an amphibious airplane.
+Skills The applicant demonstrates the ability to:
+PA.IV.K.S1 Complete the appropriate checklist.
+PA.IV.K.S2 Make radio calls as appropriate.
+PA.IV.K.S3 Verify assigned/correct takeoff path.
+PA.IV.K.S4 Ascertain wind direction with or without visible wind direction indicators.
+PA.IV.K.S5 Position flight controls and configure the airplane for the existing conditions.
+PA.IV.K.S6 Clear the area, select an appropriate takeoff path considering wind, swells, surface
+hazards, or vessels.
+PA.IV.K.S7 Retract the water rudders as appropriate; advance the throttle smoothly to takeoff power.
+PA.IV.K.S8 Establish and maintain an appropriate planing attitude, directional control, and correct for
+porpoising, skipping, and increase in water drag.
+PA.IV.K.S9 Avoid excessive water spray on the propeller(s).
+PA.IV.K.S10 Lift off at minimum airspeed and accelerate to VY +10/- 5 knots before leaving ground
+effect.
+PA.IV.K.S11 Configure the airplane after a positive rate of climb has been verified or in accordance
+with airplane manufacturer’s instructions.
+PA.IV.K.S12 Maintain VY +10/-5 knots to a safe maneuvering altitude.
+PA.IV.K.S13 Maintain directional control and proper wind-drift correction throughout takeoff and climb.IV. Takeoffs, Landings, and Go-Arounds
+32
+Task L. Rough Water Approach and Landing (ASES, AMES)
+References FAA-H-8083-2, FAA-H-8083-23; POH/AFM; AIM
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with a rough water approach and landing.
+Note: If a rough water condition does not exist, the applicant must be evaluated by
+simulating the Task.
+Knowledge The applicant demonstrates understanding of:
+PA.IV.L.K1 A stabilized approach, to include energy management concepts.
+PA.IV.L.K2 Effects of atmospheric conditions, including wind, on approach and landing performance.
+PA.IV.L.K3 Wind correction techniques on approach and landing.
+PA.IV.L.K4 When and why rough water techniques are used.
+PA.IV.L.K5 How a rough water approach and landing is executed.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.IV.L.R1 Selection of approach path and touchdown area based on pilot capability, airplane
+performance and limitations, available distance, and wind.
+PA.IV.L.R2 Effects of:
+PA.IV.L.R2a a. Crosswind
+PA.IV.L.R2b b. Windshear
+PA.IV.L.R2c c. Tailwind
+PA.IV.L.R2d d. Wake turbulence
+PA.IV.L.R2e e. Water surface/condition
+PA.IV.L.R3 Planning for go-around and rejected landing.
+PA.IV.L.R4 Collision hazards, to include aircraft, terrain, obstacles, wires, vessels, persons, and
+wildlife.
+PA.IV.L.R5 Low altitude maneuvering including stall, spin, or CFIT.
+PA.IV.L.R6 Distractions, loss of situational awareness, or improper task management.
+PA.IV.L.R7 Failure to confirm gear position in an amphibious airplane.
+Skills The applicant demonstrates the ability to:
+PA.IV.L.S1 Complete the appropriate checklist.
+PA.IV.L.S2 Make radio calls as appropriate.
+PA.IV.L.S3 Ensure the airplane is aligned with the correct/assigned waterway.
+PA.IV.L.S4 Scan the landing area for traffic and obstructions.
+PA.IV.L.S5 Select and aim for a suitable touchdown point considering the wind, landing surface, and
+obstructions.
+PA.IV.L.S6 Establish the recommended approach and landing configuration and airspeed, and adjust
+pitch attitude and power as required to maintain a stabilized approach.
+PA.IV.L.S7 Maintain manufacturer’s published approach airspeed or in its absence not more than 1.3
+VSO, +10/-5 knots with gust factor applied.
+PA.IV.L.S8 Maintain directional control and appropriate crosswind correction throughout the approach
+and landing.
+PA.IV.L.S9 Make smooth, timely, and correct power and control adjustments to maintain proper pitch
+attitude and rate of descent to touchdown.
+PA.IV.L.S10 Contact the water in a proper pitch attitude, considering the type of rough water.IV. Takeoffs, Landings, and Go-Arounds
+33
+Task M. Forward Slip to a Landing (ASEL, ASES)
+References FAA-H-8083-2, FAA-H-8083-3; POH/AFM; AIM
+Objective To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with a forward slip to a landing.
+Knowledge The applicant demonstrates understanding of:
+PA.IV.M.K1 Concepts of energy management during a forward slip approach.
+PA.IV.M.K2 Effects of atmospheric conditions, including wind, on approach and landing performance.
+PA.IV.M.K3 Wind correction techniques during forward slip.
+PA.IV.M.K4 When and why a forward slip approach is used during an approach.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.IV.M.R1 Selection of runway or approach path and touchdown area based on pilot capability,
+airplane performance and limitations, available distance, and wind.
+PA.IV.M.R2 Effects of:
+PA.IV.M.R2a a. Crosswind
+PA.IV.M.R2b b. Windshear
+PA.IV.M.R2c c. Tailwind
+PA.IV.M.R2d d. Wake turbulence
+PA.IV.M.R2e e. Landing surface/condition
+PA.IV.M.R3 Planning for:
+PA.IV.M.R3a a. Go-around and rejected landing
+PA.IV.M.R3b b. Land and hold short operations (LAHSO)
+PA.IV.M.R4 Collision hazards, to include aircraft, terrain, obstacles, wires, vehicles, vessels, persons,
+and wildlife.
+PA.IV.M.R5 Low altitude maneuvering including stall, spin, or CFIT.
+PA.IV.M.R6 Distractions, loss of situational awareness, or improper task management.
+PA.IV.M.R7 Forward slip operations, including fuel flowage, tail stalls with flaps, and lack of airspeed
+control.
+PA.IV.M.R8 Surface contact with the airplane’s longitudinal axis misaligned.
+PA.IV.M.R9 Unstable approach.
+Skills The applicant demonstrates the ability to:
+PA.IV.M.S1 Complete the appropriate checklist.
+PA.IV.M.S2 Make radio calls as appropriate.
+PA.IV.M.S3 Plan and follow a flightpath to the selected landing area considering altitude, wind, terrain,
+and obstructions.
+PA.IV.M.S4 Select the most suitable touchdown point based on wind, landing surface, obstructions,
+and airplane limitations.
+PA.IV.M.S5 Position airplane on downwind leg, parallel to landing runway.
+PA.IV.M.S6 Configure the airplane correctly.
+PA.IV.M.S7 As necessary, correlate crosswind with direction of forward slip and transition to sideslip
+before touchdown.
+PA.IV.M.S8
+Touch down at a proper pitch attitude, within 400 feet beyond or on the specified point,
+with no side drift, and with the airplane’s longitudinal axis aligned with and over the
+runway center/landing path.
+PA.IV.M.S9 Maintain a ground track aligned with the runway center/landing path.IV. Takeoffs, Landings, and Go-Arounds
+34
+Task N. Go-Around/Rejected Landing
+References FAA-H-8083-3, FAA-H-8083-23; POH/AFM; AIM
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with a go-around/rejected landing with emphasis on factors that contribute to
+landing conditions that may require a go-around.
+Knowledge The applicant demonstrates understanding of:
+PA.IV.N.K1 A stabilized approach, to include energy management concepts.
+PA.IV.N.K2 Effects of atmospheric conditions, including wind and density altitude on a go-around or
+rejected landing.
+PA.IV.N.K3 Wind correction techniques on takeoff/departure and approach/landing.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.IV.N.R1 Delayed recognition of the need for a go-around/rejected landing.
+PA.IV.N.R2 Delayed performance of a go-around at low altitude.
+PA.IV.N.R3 Improper application of power.
+PA.IV.N.R4 Improper airplane configuration.
+PA.IV.N.R5 Collision hazards, to include aircraft, terrain, obstacles, wires, vehicles, vessels, persons,
+and wildlife.
+PA.IV.N.R6 Low altitude maneuvering including stall, spin, or CFIT.
+PA.IV.N.R7 Distractions, loss of situational awareness, or improper task management.
+Skills The applicant demonstrates the ability to:
+PA.IV.N.S1 Complete the appropriate checklist.
+PA.IV.N.S2 Make radio calls as appropriate.
+PA.IV.N.S3 Make a timely decision to discontinue the approach to landing.
+PA.IV.N.S4 Apply takeoff power immediately and transition to climb pitch attitude for VX or VY as
+appropriate +10/-5 knots.
+PA.IV.N.S5 Configure the airplane after a positive rate of climb has been verified or in accordance
+with airplane manufacturer’s instructions.
+PA.IV.N.S6 Maneuver to the side of the runway/landing area when necessary to clear and avoid
+conflicting traffic.
+PA.IV.N.S7 Maintain VY +10/-5 knots to a safe maneuvering altitude.
+PA.IV.N.S8 Maintain directional control and proper wind-drift correction throughout the climb.35
+V. Performance and Ground Reference Maneuvers
+Task A. Steep Turns
+References FAA-H-8083-2, FAA-H-8083-3; POH/AFM
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with steep turns.
+Note: See Appendix 7: Aircraft, Equipment, and Operational Requirements & Limitations.
+Knowledge The applicant demonstrates understanding of:
+PA.V.A.K1 Purpose of steep turns.
+PA.V.A.K2 Aerodynamics associated with steep turns, to include:
+PA.V.A.K2a a. Coordinated and uncoordinated flight
+PA.V.A.K2b b. Overbanking tendencies
+PA.V.A.K2c c. Maneuvering speed, including the impact of weight changes
+PA.V.A.K2d d. Load factor and accelerated stalls
+PA.V.A.K2e e. Rate and radius of turn
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.V.A.R1 Failure to divide attention between airplane control and orientation.
+PA.V.A.R2 Collision hazards, to include aircraft and terrain.
+PA.V.A.R3 Low altitude maneuvering including stall, spin, or CFIT.
+PA.V.A.R4 Distractions, improper task management, loss of situational awareness, or disorientation.
+PA.V.A.R5 Failure to maintain coordinated flight.
+Skills The applicant demonstrates the ability to:
+PA.V.A.S1 Clear the area.
+PA.V.A.S2 Establish the manufacturer’s recommended airspeed; or if one is not available, an
+airspeed not to exceed VA.
+PA.V.A.S3 Roll into a coordinated 360° steep turn with approximately a 45° bank.
+PA.V.A.S4 Perform the Task in the opposite direction, as specified by evaluator.
+PA.V.A.S5 Maintain the entry altitude ±100 feet, airspeed ±10 knots, bank ±5°, and roll out on the
+entry heading ±10°.V. Performance and Ground Reference Maneuvers
+36
+Task B. Ground Reference Maneuvers
+References 14 CFR part 61; FAA-H-8083-2, FAA-H-8083-3
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with ground reference maneuvering which may include a rectangular course, S-
+turns, and turns around a point.
+Note: See Appendix 7: Aircraft, Equipment, and Operational Requirements & Limitations.
+Knowledge The applicant demonstrates understanding of:
+PA.V.B.K1 Purpose of ground reference maneuvers.
+PA.V.B.K2 Effects of wind on ground track and relation to a ground reference point.
+PA.V.B.K3 Effects of bank angle and groundspeed on rate and radius of turn.
+PA.V.B.K4 Relationship of rectangular course to airport traffic pattern.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.V.B.R1 Failure to divide attention between airplane control and orientation.
+PA.V.B.R2 Collision hazards, to include aircraft, terrain, obstacles, and wires.
+PA.V.B.R3 Low altitude maneuvering including stall, spin, or CFIT.
+PA.V.B.R4 Distractions, loss of situational awareness, or improper task management.
+PA.V.B.R5 Failure to maintain coordinated flight.
+Skills The applicant demonstrates the ability to:
+PA.V.B.S1 Clear the area.
+PA.V.B.S2 Select a suitable ground reference area, line, or point as appropriate.
+PA.V.B.S3 Plan the maneuver:
+Note: The evaluator must select at least one maneuver for the applicant to demonstrate.
+PA.V.B.S3a
+a. Rectangular course: enter a left or right pattern, 600 to 1,000 feet above ground level
+(AGL) at an appropriate distance from the selected reference area, 45° to the
+downwind leg
+PA.V.B.S3b b. S-turns: enter perpendicular to the selected reference line, 600 to 1,000 feet AGL at
+an appropriate distance from the selected reference area
+PA.V.B.S3c c. Turns around a point: enter at an appropriate distance from the reference point, 600
+to 1,000 feet AGL at an appropriate distance from the selected reference area
+PA.V.B.S4
+Apply adequate wind-drift correction during straight and turning flight to maintain a
+constant ground track around a rectangular reference area, or to maintain a constant
+radius turn on each side of a selected reference line or point.
+PA.V.B.S5
+If performing S-Turns, reverse the turn directly over the selected reference line; if
+performing turns around a point, complete turns in either direction, as specified by the
+evaluator.
+PA.V.B.S6 Divide attention between airplane control, traffic avoidance and the ground track while
+maintaining coordinated flight.
+PA.V.B.S7 Maintain altitude ±100 feet; maintain airspeed ±10 knots.37
+VI. Navigation
+Task A. Pilotage and Dead Reckoning
+References 14 CFR part 61; FAA-H-8083-2, FAA-H-8083-25; Navigation Charts
+Objective To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with pilotage and dead reckoning.
+Knowledge The applicant demonstrates understanding of:
+PA.VI.A.K1 Pilotage and dead reckoning.
+PA.VI.A.K2 Magnetic compass errors.
+PA.VI.A.K3 Topography.
+PA.VI.A.K4 Selection of appropriate:
+PA.VI.A.K4a a. Route
+PA.VI.A.K4b b. Altitude(s)
+PA.VI.A.K4c c. Checkpoints
+PA.VI.A.K5 Plotting a course, to include:
+PA.VI.A.K5a a. Determining heading, speed, and course
+PA.VI.A.K5b b. Wind correction angle
+PA.VI.A.K5c c. Estimating time, speed, and distance
+PA.VI.A.K5d d. True airspeed and density altitude
+PA.VI.A.K6 Power setting selection.
+PA.VI.A.K7 Planned versus actual flight plan calculations and required corrections.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.VI.A.R1 Collision hazards, to include aircraft, terrain, obstacles, and wires.
+PA.VI.A.R2 Distractions, loss of situational awareness, or improper task management.
+Skills The applicant demonstrates the ability to:
+PA.VI.A.S1 Prepare and use a flight log.
+PA.VI.A.S2 Navigate by pilotage.
+PA.VI.A.S3 Navigate by means of pre-computed headings, groundspeeds, and elapsed time.
+PA.VI.A.S4 Use the magnetic direction indicator in navigation, to include turns to headings.
+PA.VI.A.S5 Verify position within three nautical miles of the flight-planned route.
+PA.VI.A.S6 Arrive at the en route checkpoints within five minutes of the initial or revised estimated
+time of arrival (ETA) and provide a destination estimate.
+PA.VI.A.S7 Maintain the appropriate altitude ±200 feet and heading ±15°.VI. Navigation
+38
+Task B. Navigation Systems and Radar Services
+References
+FAA-H-8083-2, FAA-H-8083-3, FAA-H-8083-6, FAA-H-8083-25; AIM
+Note: The evaluator should reference the manufacturer’s equipment supplement(s) as
+necessary.
+Objective To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with navigation systems and radar services.
+Knowledge The applicant demonstrates understanding of:
+PA.VI.B.K1 Ground-based navigation (orientation, course determination, equipment, tests, and
+regulations).
+PA.VI.B.K2 Satellite-based navigation (e.g., equipment, regulations, database considerations, and
+limitations of satellite navigation).
+PA.VI.B.K3 Radar assistance to VFR aircraft (e.g., operations, equipment, available services, traffic
+advisories).
+PA.VI.B.K4 Transponder (Mode(s) A, C, and S).
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.VI.B.R1 Failure to manage automated navigation and autoflight systems.
+PA.VI.B.R2 Distractions, loss of situational awareness, or improper task management.
+PA.VI.B.R3 Limitations of the navigation system in use.
+PA.VI.B.R4 Loss of a navigation signal.
+Skills The applicant demonstrates the ability to:
+PA.VI.B.S1 Use an airborne electronic navigation system.
+PA.VI.B.S2 Determine the airplane’s position using the navigation system.
+PA.VI.B.S3 Intercept and track a given course, radial, or bearing, as appropriate.
+PA.VI.B.S4 Recognize and describe the indication of station or waypoint passage, if appropriate.
+PA.VI.B.S5 Recognize signal loss or interference and take appropriate action, if applicable.
+PA.VI.B.S6 Use proper communication procedures when utilizing radar services.
+PA.VI.B.S7 Maintain the appropriate altitude ±200 feet and heading ±15°.VI. Navigation
+39
+Task C. Diversion
+References FAA-H-8083-2, FAA-H-8083-25; AIM; Navigation Charts
+Objective To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with diversion.
+Knowledge The applicant demonstrates understanding of:
+PA.VI.C.K1 Selecting an alternate destination.
+PA.VI.C.K2 Situations that require deviations from flight plan or ATC instructions.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.VI.C.R1 Collision hazards, to include aircraft, terrain, obstacles, and wires.
+PA.VI.C.R2 Distractions, loss of situational awareness, or improper task management.
+PA.VI.C.R3 Failure to make a timely decision to divert.
+PA.VI.C.R4 Failure to select an appropriate airport or seaplane base.
+PA.VI.C.R5 Failure to utilize all available resources (e.g., automation, ATC, and flight deck planning
+aids).
+Skills The applicant demonstrates the ability to:
+PA.VI.C.S1 Select a suitable destination and route for diversion.
+PA.VI.C.S2 Make a reasonable estimate of heading, groundspeed, arrival time, and fuel consumption
+to the divert airport.
+PA.VI.C.S3 Maintain the appropriate altitude ±200 feet and heading ±15°.
+PA.VI.C.S4 Update/interpret weather in flight.
+PA.VI.C.S5 Utilize flight deck displays of digital weather and aeronautical information, as applicable.VI. Navigation
+40
+Task D. Lost Procedures
+References FAA-H-8083-2, FAA-H-8083-25; AIM; Navigation Charts
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with lost procedures and taking appropriate steps to achieve a satisfactory
+outcome if lost.
+Knowledge The applicant demonstrates understanding of:
+PA.VI.D.K1 Methods to determine position.
+PA.VI.D.K2 Assistance available if lost (e.g., radar services, communication procedures).
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.VI.D.R1 Collision hazards, to include aircraft, terrain, obstacles, and wires.
+PA.VI.D.R2 Distractions, loss of situational awareness, or improper task management.
+PA.VI.D.R3 Failure to record times over waypoints.
+PA.VI.D.R4 Failure to seek assistance or declare an emergency in a deteriorating situation.
+Skills The applicant demonstrates the ability to:
+PA.VI.D.S1 Use an appropriate method to determine position.
+PA.VI.D.S2 Maintain an appropriate heading and climb as necessary.
+PA.VI.D.S3 Identify prominent landmarks.
+PA.VI.D.S4 Use navigation systems/facilities or contact an ATC facility for assistance.41
+VII. Slow Flight and Stalls
+Task A. Maneuvering During Slow Flight
+References FAA-H-8083-2, FAA-H-8083-3, FAA-H-8083-25; POH/AFM
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with maneuvering during slow flight.
+Note: See Appendix 6: Safety of Flight and Appendix 7: Aircraft, Equipment, and
+Operational Requirements & Limitations.
+Knowledge The applicant demonstrates understanding of:
+PA.VII.A.K1
+Aerodynamics associated with slow flight in various airplane configurations, to include the
+relationship between angle of attack, airspeed, load factor, power setting, airplane weight
+and center of gravity, airplane attitude, and yaw effects.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.VII.A.R1 Inadvertent slow flight and flight with a stall warning, which could lead to loss of control.
+PA.VII.A.R2 Range and limitations of stall warning indicators (e.g., airplane buffet, stall horn, etc.).
+PA.VII.A.R3 Failure to maintain coordinated flight.
+PA.VII.A.R4 Effect of environmental elements on airplane performance (e.g., turbulence, microbursts,
+and high-density altitude).
+PA.VII.A.R5 Collision hazards, to include aircraft, terrain, obstacles, and wires.
+PA.VII.A.R6 Distractions, loss of situational awareness, or improper task management.
+Skills The applicant demonstrates the ability to:
+PA.VII.A.S1 Clear the area.
+PA.VII.A.S2 Select an entry altitude that will allow the Task to be completed no lower than 1,500 feet
+AGL (ASEL, ASES) or 3,000 feet AGL (AMEL, AMES).
+PA.VII.A.S3
+Establish and maintain an airspeed at which any further increase in angle of attack,
+increase in load factor, or reduction in power, would result in a stall warning (e.g., airplane
+buffet, stall horn, etc.).
+PA.VII.A.S4
+Accomplish coordinated straight-and-level flight, turns, climbs, and descents with the
+airplane configured as specified by the evaluator without a stall warning (e.g., airplane
+buffet, stall horn, etc.).
+PA.VII.A.S5 Maintain the specified altitude, ±100 feet; specified heading, ±10°; airspeed, +10/-0 knots;
+and specified angle of bank, ±10°.VII. Slow Flight and Stalls
+42
+Task B. Power-Off Stalls
+References FAA-H-8083-2, FAA-H-8083-3; AC 61-67; POH/AFM
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with power-off stalls.
+Note: See Appendix 7: Aircraft, Equipment, and Operational Requirements & Limitations.
+Knowledge The applicant demonstrates understanding of:
+PA.VII.B.K1
+Aerodynamics associated with stalls in various airplane configurations, to include the
+relationship between angle of attack, airspeed, load factor, power setting, airplane weight
+and center of gravity, airplane attitude, and yaw effects.
+PA.VII.B.K2 Stall characteristics (i.e., airplane design) and impending stall and full stall indications
+(i.e., how to recognize by sight, sound, or feel).
+PA.VII.B.K3 Factors and situations that can lead to a power-off stall and actions that can be taken to
+prevent it.
+PA.VII.B.K4 Fundamentals of stall recovery.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.VII.B.R1 Factors and situations that could lead to an inadvertent power-off stall, spin, and loss of
+control.
+PA.VII.B.R2 Range and limitations of stall warning indicators (e.g., airplane buffet, stall horn, etc.).
+PA.VII.B.R3 Failure to recognize and recover at the stall warning during normal operations.
+PA.VII.B.R4 Improper stall recovery procedure.
+PA.VII.B.R5 Secondary stalls, accelerated stalls, and cross-control stalls.
+PA.VII.B.R6 Effect of environmental elements on airplane performance related to power-off stalls (e.g.,
+turbulence, microbursts, and high-density altitude).
+PA.VII.B.R7 Collision hazards, to include aircraft, terrain, obstacles, and wires.
+PA.VII.B.R8 Distractions, improper task management, loss of situational awareness, or disorientation.
+Skills The applicant demonstrates the ability to:
+PA.VII.B.S1 Clear the area.
+PA.VII.B.S2 Select an entry altitude that will allow the Task to be completed no lower than 1,500 feet
+AGL (ASEL, ASES) or 3,000 feet AGL (AMEL, AMES).
+PA.VII.B.S3 Configure the airplane in the approach or landing configuration, as specified by the
+evaluator, and maintain coordinated flight throughout the maneuver.
+PA.VII.B.S4 Establish a stabilized descent.
+PA.VII.B.S5 Transition smoothly from the approach or landing attitude to a pitch attitude that will induce a
+stall.
+PA.VII.B.S6 Maintain a specified heading ±10° if in straight flight; maintain a specified angle of bank not
+to exceed 20°, ±10° if in turning flight, while inducing the stall.
+PA.VII.B.S7 Acknowledge cues of the impending stall and then recover promptly after a full stall occurs.
+PA.VII.B.S8 Execute a stall recovery in accordance with procedures set forth in the POH/AFM.
+PA.VII.B.S9 Configure the airplane as recommended by the manufacturer, and accelerate to VX or VY.
+PA.VII.B.S10 Return to the altitude, heading, and airspeed specified by the evaluator.VII. Slow Flight and Stalls
+43
+Task C. Power-On Stalls
+References FAA-H-8083-2, FAA-H-8083-3; AC 61-67; POH/AFM
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with power-on stalls.
+Note: See Appendix 6: Safety of Flight and Appendix 7: Aircraft, Equipment, and
+Operational Requirements & Limitations.
+Knowledge The applicant demonstrates understanding of:
+PA.VII.C.K1
+Aerodynamics associated with stalls in various airplane configurations, to include the
+relationship between angle of attack, airspeed, load factor, power setting, airplane weight
+and center of gravity, airplane attitude, and yaw effects.
+PA.VII.C.K2 Stall characteristics (i.e., airplane design) and impending stall and full stall indications
+(i.e., how to recognize by sight, sound, or feel).
+PA.VII.C.K3 Factors and situations that can lead to a power-on stall and actions that can be taken to
+prevent it.
+PA.VII.C.K4 Fundamentals of stall recovery.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.VII.C.R1 Factors and situations that could lead to an inadvertent power-on stall, spin, and loss of
+control.
+PA.VII.C.R2 Range and limitations of stall warning indicators (e.g., airplane buffet, stall horn, etc.).
+PA.VII.C.R3 Failure to recognize and recover at the stall warning during normal operations.
+PA.VII.C.R4 Improper stall recovery procedure.
+PA.VII.C.R5 Secondary stalls, accelerated stalls, elevator trim stalls, and cross-control stalls.
+PA.VII.C.R6 Effect of environmental elements on airplane performance related to power-on stalls (e.g.,
+turbulence, microbursts, and high-density altitude).
+PA.VII.C.R7 Collision hazards, to include aircraft, terrain, obstacles, and wires.
+PA.VII.C.R8 Distractions, improper task management, loss of situational awareness, or disorientation.
+Skills The applicant demonstrates the ability to:
+PA.VII.C.S1 Clear the area.
+PA.VII.C.S2 Select an entry altitude that will allow the Task to be completed no lower than 1,500 feet
+AGL (ASEL, ASES) or 3,000 feet AGL (AMEL, AMES).
+PA.VII.C.S3 Establish the takeoff, departure, or cruise configuration, as specified by the evaluator, and
+maintain coordinated flight throughout the maneuver.
+PA.VII.C.S4 Set power (as assigned by the evaluator) to no less than 65 percent power.
+PA.VII.C.S5 Transition smoothly from the takeoff or departure attitude to the pitch attitude that will
+induce a stall.
+PA.VII.C.S6 Maintain a specified heading ±10° if in straight flight; maintain a specified angle of bank
+not to exceed 20°, ±10° if in turning flight, while inducing the stall.
+PA.VII.C.S7 Acknowledge cues of the impending stall and then recover promptly after a full stall
+occurs.
+PA.VII.C.S8 Execute a stall recovery in accordance with procedures set forth in the POH/AFM.
+PA.VII.C.S9 Configure the airplane as recommended by the manufacturer, and accelerate to VX or VY.
+PA.VII.C.S10 Return to the altitude, heading, and airspeed specified by the evaluator.VII. Slow Flight and Stalls
+44
+Task D. Spin Awareness
+References FAA-H-8083-2, FAA-H-8083-3; AC 61-67; POH/AFM
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with spins, flight situations where unintentional spins may occur and procedures
+for recovery from unintentional spins.
+Knowledge The applicant demonstrates understanding of:
+PA.VII.D.K1
+Aerodynamics associated with spins in various airplane configurations, to include the
+relationship between angle of attack, airspeed, load factor, power setting, airplane weight
+and center of gravity, airplane attitude, and yaw effects.
+PA.VII.D.K2 What causes a spin and how to identify the entry, incipient, and developed phases of a
+spin.
+PA.VII.D.K3 Spin recovery procedure.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.VII.D.R1 Factors and situations that could lead to inadvertent spin and loss of control.
+PA.VII.D.R2 Range and limitations of stall warning indicators (e.g., airplane buffet, stall horn, etc.).
+PA.VII.D.R3 Improper spin recovery procedure.
+PA.VII.D.R4 Effect of environmental elements on airplane performance related to spins (e.g.,
+turbulence, microbursts, and high-density altitude).
+PA.VII.D.R5 Collision hazards, to include aircraft, terrain, obstacles, and wires.
+PA.VII.D.R6 Distractions, improper task management, loss of situational awareness, or disorientation.
+Skills [Intentionally left blank]45
+VIII. Basic Instrument Maneuvers
+Task A. Straight-and-Level Flight
+References FAA-H-8083-2, FAA-H-8083-3, FAA-H-8083-15
+Objective To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with flying during straight-and-level flight solely by reference to instruments.
+Knowledge The applicant demonstrates understanding of:
+PA.VIII.A.K1 Flight instruments as related to:
+PA.VIII.A.K1a a. Sensitivity, limitations, and potential errors in unusual attitudes
+PA.VIII.A.K1b b. Correlation (pitch instruments/bank instruments)
+PA.VIII.A.K1c c. Function and operation
+PA.VIII.A.K1d d. Proper instrument cross-check techniques
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.VIII.A.R1 Instrument flying hazards to include failure to maintain VFR, spatial disorientation, loss of
+control, fatigue, stress, and emergency off airport landings.
+PA.VIII.A.R2 Failure to seek assistance or declare an emergency in a deteriorating situation.
+PA.VIII.A.R3 Collision hazards, to include aircraft, terrain, obstacles, and wires.
+PA.VIII.A.R4 Distractions, loss of situational awareness, or improper task management.
+Skills The applicant demonstrates the ability to:
+PA.VIII.A.S1 Maintain straight-and-level flight using proper instrument cross-check and interpretation,
+and coordinated control application.
+PA.VIII.A.S2 Maintain altitude ±200 feet, heading ±20°, and airspeed ±10 knots.VIII. Basic Instrument Maneuvers
+46
+Task B. Constant Airspeed Climbs
+References FAA-H-8083-2, FAA-H-8083-3, FAA-H-8083-15
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with attitude instrument flying during constant airspeed climbs solely by reference
+to instruments.
+Knowledge The applicant demonstrates understanding of:
+PA.VIII.B.K1 Flight instruments as related to:
+PA.VIII.B.K1a a. Sensitivity, limitations, and potential errors in unusual attitudes
+PA.VIII.B.K1b b. Correlation (pitch instruments/bank instruments)
+PA.VIII.B.K1c c. Function and operation
+PA.VIII.B.K1d d. Proper instrument cross-check techniques
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.VIII.B.R1 Instrument flying hazards to include failure to maintain VFR, spatial disorientation, loss of
+control, fatigue, stress, and emergency off airport landings.
+PA.VIII.B.R2 Failure to seek assistance or declare an emergency in a deteriorating situation.
+PA.VIII.B.R3 Collision hazards, to include aircraft, terrain, obstacles, and wires.
+PA.VIII.B.R4 Distractions, loss of situational awareness, or improper task management.
+Skills The applicant demonstrates the ability to:
+PA.VIII.B.S1
+Transition to the climb pitch attitude and power setting on an assigned heading using
+proper instrument cross-check and interpretation, and coordinated flight control
+application.
+PA.VIII.B.S2 Climb at a constant airspeed to specific altitudes in straight flight and turns.
+PA.VIII.B.S3 Level off at the assigned altitude and maintain altitude ±200 feet, heading ±20°, and
+airspeed ±10 knots.VIII. Basic Instrument Maneuvers
+47
+Task C. Constant Airspeed Descents
+References FAA-H-8083-2, FAA-H-8083-3, FAA-H-8083-15
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with attitude instrument flying during constant airspeed descents solely by
+reference to instruments.
+Knowledge The applicant demonstrates understanding of:
+PA.VIII.C.K1 Flight instruments as related to:
+PA.VIII.C.K1a a. Sensitivity, limitations, and potential errors in unusual attitudes
+PA.VIII.C.K1b b. Correlation (pitch instruments/bank instruments)
+PA.VIII.C.K1c c. Function and operation
+PA.VIII.C.K1d d. Proper instrument cross-check techniques
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.VIII.C.R1 Instrument flying hazards to include failure to maintain VFR, spatial disorientation, loss of
+control, fatigue, stress, and emergency off airport landings.
+PA.VIII.C.R2 Failure to seek assistance or declare an emergency in a deteriorating situation.
+PA.VIII.C.R3 Collision hazards, to include aircraft, terrain, obstacles, and wires.
+PA.VIII.C.R4 Distractions, loss of situational awareness, or improper task management.
+Skills The applicant demonstrates the ability to:
+PA.VIII.C.S1
+Transition to the descent pitch attitude and power setting on an assigned heading using
+proper instrument cross-check and interpretation, and coordinated flight control
+application.
+PA.VIII.C.S2 Descend at a constant airspeed to specific altitudes in straight flight and turns.
+PA.VIII.C.S3 Level off at the assigned altitude and maintain altitude ±200 feet, heading ±20°, and
+airspeed ±10 knots.VIII. Basic Instrument Maneuvers
+48
+Task D. Turns to Headings
+References FAA-H-8083-2, FAA-H-8083-3, FAA-H-8083-15
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with attitude instrument flying during turns to headings solely by reference to
+instruments.
+Knowledge The applicant demonstrates understanding of:
+PA.VIII.D.K1 Flight instruments as related to:
+PA.VIII.D.K1a a. Sensitivity, limitations, and potential errors in unusual attitudes
+PA.VIII.D.K1b b. Correlation (pitch instruments/bank instruments)
+PA.VIII.D.K1c c. Function and operation
+PA.VIII.D.K1d d. Proper instrument cross-check techniques
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.VIII.D.R1 Instrument flying hazards to include failure to maintain VFR, spatial disorientation, loss of
+control, fatigue, stress, and emergency off airport landings.
+PA.VIII.D.R2 Failure to seek assistance or declare an emergency in a deteriorating situation.
+PA.VIII.D.R3 Collision hazards, to include aircraft, terrain, obstacles, and wires.
+PA.VIII.D.R4 Distractions, loss of situational awareness, or improper task management.
+Skills The applicant demonstrates the ability to:
+PA.VIII.D.S1 Turn to headings, maintain altitude ±200 feet, maintain a standard rate turn, roll out on the
+assigned heading ±10°, and maintain airspeed ±10 knots.VIII. Basic Instrument Maneuvers
+49
+Task E. Recovery from Unusual Flight Attitudes
+References FAA-H-8083-2, FAA-H-8083-3, FAA-H-8083-15
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with attitude instrument flying while recovering from unusual attitudes solely by
+reference to instruments.
+Knowledge The applicant demonstrates understanding of:
+PA.VIII.E.K1 Flight instruments as related to:
+PA.VIII.E.K1a a. Sensitivity, limitations, and potential errors in unusual attitudes
+PA.VIII.E.K1b b. Correlation (pitch instruments/bank instruments)
+PA.VIII.E.K1c c. Function and operation
+PA.VIII.E.K1d d. Proper instrument cross-check techniques
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.VIII.E.R1 Instrument flying hazards to include failure to maintain VFR, spatial disorientation, loss of
+control, fatigue, stress, and emergency off airport landings.
+PA.VIII.E.R2 Failure to seek assistance or declare an emergency in a deteriorating situation.
+PA.VIII.E.R3 Collision hazards, to include aircraft, terrain, obstacles, and wires.
+PA.VIII.E.R4 Distractions, loss of situational awareness, or improper task management.
+PA.VIII.E.R5 Failure to interpret flight instruments.
+PA.VIII.E.R6 Failure to unload the wings in recovering from high G situations.
+PA.VII.E.R7 Exceeding the operating envelope during the recovery.
+Skills The applicant demonstrates the ability to:
+PA.VIII.E.S1
+Recognize unusual flight attitudes; perform the correct, coordinated, and smooth flight
+control application to resolve unusual pitch and bank attitudes while staying within the
+airplane’s limitations and flight parameters.VIII. Basic Instrument Maneuvers
+50
+Task F. Radio Communications, Navigation Systems/Facilities, and Radar Services
+References FAA-H-8083-2, FAA-H-8083-3, FAA-H-8083-15, FAA-H-8083-25
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with radio communications, navigation systems/facilities, and radar services
+available for use during flight solely by reference to instruments.
+Knowledge The applicant demonstrates understanding of:
+PA.VIII.F.K1 Operating communications equipment to include identifying and selecting radio
+frequencies, requesting and following ATC instructions.
+PA.VIII.F.K2 Operating navigation equipment to include functions and displays, and following bearings,
+radials, or courses.
+PA.VIII.F.K3 Air traffic control facilities and services.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.VIII.F.R1 Failure to seek assistance or declare an emergency in a deteriorating situation.
+PA.VIII.F.R2 Failure to utilize all available resources (e.g., automation, ATC, and flight deck planning
+aids).
+Skills The applicant demonstrates the ability to:
+PA.VIII.F.S1 Maintain airplane control while selecting proper communications frequencies, identifying
+the appropriate facility, and managing navigation equipment.
+PA.VIII.F.S2 Comply with ATC instructions.
+PA.VIII.F.S3 Maintain altitude ±200 feet, heading ±20°, and airspeed ±10 knots.51
+IX. Emergency Operations
+Task A. Emergency Descent
+References FAA-H-8083-2, FAA-H-8083-3; POH/AFM
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with an emergency descent.
+Note: See Appendix 6: Safety of Flight.
+Knowledge The applicant demonstrates understanding of:
+PA.IX.A.K1 Situations that would require an emergency descent (e.g., depressurization, smoke, or
+engine fire).
+PA.IX.A.K2 Immediate action items and emergency procedures.
+PA.IX.A.K3 Airspeed, to include airspeed limitations.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.IX.A.R1 Failure to consider altitude, wind, terrain, obstructions, and available glide distance.
+PA.IX.A.R2 Collision hazards, to include aircraft, terrain, obstacles, and wires.
+PA.IX.A.R3 Improper airplane configuration.
+PA.IX.A.R4 Distractions, loss of situational awareness, or improper task management.
+Skills The applicant demonstrates the ability to:
+PA.IX.A.S1 Clear the area.
+PA.IX.A.S2
+Establish and maintain the appropriate airspeed and configuration appropriate to the
+scenario specified by the evaluator and as covered in POH/AFM for the emergency
+descent.
+PA.IX.A.S3 Maintain orientation, divide attention appropriately, and plan and execute a smooth
+recovery.
+PA.IX.A.S4 Use bank angle between 30° and 45° to maintain positive load factors during the descent.
+PA.IX.A.S5 Maintain appropriate airspeed +0/-10 knots, and level off at a specified altitude ±100 feet.
+PA.IX.A.S6 Complete the appropriate checklist.IX. Emergency Operations
+52
+Task B. Emergency Approach and Landing (Simulated) (ASEL, ASES)
+References FAA-H-8083-2, FAA-H-8083-3; POH/AFM
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with emergency approach and landing procedures.
+Note: See Appendix 6: Safety of Flight.
+Knowledge The applicant demonstrates understanding of:
+PA.IX.B.K1 Immediate action items and emergency procedures.
+PA.IX.B.K2 Airspeed, to include:
+PA.IX.B.K2a a. Importance of best glide speed and its relationship to distance
+PA.IX.B.K2b b. Difference between best glide speed and minimum sink speed
+PA.IX.B.K2c c. Effects of wind on glide distance
+PA.IX.B.K3 Effects of atmospheric conditions on emergency approach and landing.
+PA.IX.B.K4 A stabilized approach, to include energy management concepts.
+PA.IX.B.K5 ELTs and other emergency locating devices.
+PA.IX.B.K6 ATC services to aircraft in distress.
+Risk
+Management The applicant demonstrates the ability to identify, assess, and mitigate risks, encompassing:
+PA.IX.B.R1 Failure to consider altitude, wind, terrain, obstructions, gliding distance, and available
+landing distance.
+PA.IX.B.R2 Failure to plan and follow a flightpath to the selected landing area.
+PA.IX.B.R3 Collision hazards, to include aircraft, terrain, obstacles, and wires.
+PA.IX.B.R4 Improper airplane configuration.
+PA.IX.B.R5 Low altitude maneuvering including stall, spin, or CFIT.
+PA.IX.B.R6 Distractions, loss of situational awareness, or improper task management.
+Skills The applicant demonstrates the ability to:
+PA.IX.B.S1 Establish and maintain the recommended best glide airspeed, ±10 knots.
+PA.IX.B.S2 Configure the airplane in accordance with the POH/AFM and existing conditions.
+PA.IX.B.S3 Select a suitable landing area considering altitude, wind, terrain, obstructions, and
+available glide distance.
+PA.IX.B.S4 Plan and follow a flightpath to the selected landing area considering altitude, wind, terrain,
+and obstructions.
+PA.IX.B.S5 Prepare for landing as specified by the evaluator.
+PA.IX.B.S6 Complete the appropriate checklist.IX. Emergency Operations
+53
+Task C. Systems and Equipment Malfunctions
+References FAA-H-8083-2, FAA-H-8083-3; POH/AFM
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with system and equipment malfunctions appropriate to the airplane provided for
+the practical test and analyzing the situation and take appropriate action for simulated
+emergencies.
+Knowledge The applicant demonstrates understanding of:
+PA.IX.C.K1 Partial or complete power loss related to the specific powerplant, including:
+PA.IX.C.K1a a. Engine roughness or overheat
+PA.IX.C.K1b b. Carburetor or induction icing
+PA.IX.C.K1c c. Loss of oil pressure
+PA.IX.C.K1d d. Fuel starvation
+PA.IX.C.K2 System and equipment malfunctions specific to the airplane, including:
+PA.IX.C.K2a a. Electrical malfunction
+PA.IX.C.K2b b. Vacuum/pressure and associated flight instrument malfunctions
+PA.IX.C.K2c c. Pitot/static system malfunction
+PA.IX.C.K2d d. Electronic flight deck display malfunction
+PA.IX.C.K2e e. Landing gear or flap malfunction
+PA.IX.C.K2f f. Inoperative trim
+PA.IX.C.K3 Smoke/fire/engine compartment fire.
+PA.IX.C.K4 Any other system specific to the airplane (e.g., supplemental oxygen, deicing).
+PA.IX.C.K5 Inadvertent door or window opening.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.IX.C.R1 Failure to use the proper checklist for a system or equipment malfunction.
+PA.IX.C.R2 Distractions, loss of situational awareness, or improper task management.
+Skills The applicant demonstrates the ability to:
+PA.IX.C.S1 Describe appropriate action for simulated emergencies specified by the evaluator, from at
+least three of the elements or sub-elements listed in K1 through K5 above.
+PA.IX.C.S2 Complete the appropriate checklist.IX. Emergency Operations
+54
+Task D. Emergency Equipment and Survival Gear
+References FAA-H-8083-2, FAA-H-8083-3; POH/AFM
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with emergency equipment, and survival gear appropriate to the airplane and
+environment encountered during flight and identifying appropriate equipment that should be
+onboard the airplane.
+Knowledge The applicant demonstrates understanding of:
+PA.IX.D.K1 Emergency Locator Transmitter (ELT) operations, limitations, and testing requirements.
+PA.IX.D.K2 Fire extinguisher operations and limitations.
+PA.IX.D.K3 Emergency equipment and survival gear needed for:
+PA.IX.D.K3a a. Climate extremes (hot/cold)
+PA.IX.D.K3b b. Mountainous terrain
+PA.IX.D.K3c c. Overwater operations
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.IX.D.R1 Failure to plan for basic needs (water, clothing, shelter) for 48 to 72 hours.
+Skills The applicant demonstrates the ability to:
+PA.IX.D.S1 Identify appropriate equipment and personal gear.
+PA.IX.D.S2 Brief passengers on proper use of on-board emergency equipment and survival gear.IX. Emergency Operations
+55
+Task E. Engine Failure During Takeoff Before VMC (Simulated) (AMEL, AMES)
+References FAA-H-8083-2, FAA-H-8083-3; FAA-P-8740-66; POH/AFM
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with an engine failure during takeoff before VMC.
+Note: See Appendix 6: Safety of Flight and Appendix 7: Aircraft, Equipment, and
+Operational Requirements & Limitations.
+Knowledge The applicant demonstrates understanding of:
+PA.IX.E.K1 Factors affecting VMC.
+PA.IX.E.K2 VMC (red line) and VYSE (blue line).
+PA.IX.E.K3 Accelerate/stop distance.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.IX.E.R1 Failure to plan for engine failure during takeoff.
+PA.IX.E.R2 Improper airplane configuration.
+PA.IX.E.R3 Distractions, loss of situational awareness, or improper task management.
+Skills The applicant demonstrates the ability to:
+PA.IX.E.S1 Close the throttles smoothly and promptly when a simulated engine failure occurs.
+PA.IX.E.S2 Maintain directional control and apply brakes (AMEL), or flight controls (AMES), as
+necessary.IX. Emergency Operations
+56
+Task F. Engine Failure After Liftoff (Simulated) (AMEL, AMES)
+References FAA-H-8083-2, FAA-H-8083-3; FAA-P-8740-66; POH/AFM
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with an engine failure after liftoff.
+Note: See Appendix 6: Safety of Flight and Appendix 7: Aircraft, Equipment, and
+Operational Requirements & Limitations.
+Knowledge The applicant demonstrates understanding of:
+PA.IX.F.K1 Factors affecting VMC.
+PA.IX.F.K2 VMC (red line), VYSE (blue line), and VSSE (safe single-engine speed).
+PA.IX.F.K3 Accelerate/stop and accelerate/go distances.
+PA.IX.F.K4 How to identify, verify, feather, and secure an inoperative engine.
+PA.IX.F.K5 Importance of drag reduction, to include propeller feathering, gear and flap retraction, the
+manufacturer’s recommended control input and its relation to zero sideslip.
+PA.IX.F.K6 Simulated propeller feathering and the evaluator’s zero-thrust procedures and
+responsibilities.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.IX.F.R1 Failure to plan for engine failure after liftoff.
+PA.IX.F.R2 Collision hazards, to include aircraft, terrain, obstacles, and wires.
+PA.IX.F.R3 Improper airplane configuration.
+PA.IX.F.R4 Low altitude maneuvering including stall, spin, or CFIT.
+PA.IX.F.R5 Distractions, loss of situational awareness, or improper task management.
+Skills The applicant demonstrates the ability to:
+PA.IX.F.S1 Promptly recognize an engine failure, maintain control, and utilize appropriate emergency
+procedures.
+PA.IX.F.S2 Establish VYSE; if obstructions are present, establish VXSE or VMC +5 knots, whichever is
+greater, until obstructions are cleared. Then transition to VYSE.
+PA.IX.F.S3 Reduce drag by retracting landing gear and flaps in accordance with the manufacturer’s
+guidance.
+PA.IX.F.S4 Simulate feathering the propeller on the inoperative engine (evaluator should then
+establish zero thrust on the inoperative engine).
+PA.IX.F.S5 Use flight controls in the proper combination as recommended by the manufacturer, or as
+required to maintain best performance, and trim as required.
+PA.IX.F.S6 Monitor the operating engine and make adjustments as necessary.
+PA.IX.F.S7
+Recognize the airplane’s performance capabilities. If a climb is not possible at VYSE,
+maintain VYSE and return to the departure airport for landing, or initiate an approach to the
+most suitable landing area available.
+PA.IX.F.S8 Simulate securing the inoperative engine.
+PA.IX.F.S9 Maintain heading ±10° and airspeed ±5 knots.
+PA.IX.F.S10 Complete the appropriate checklist.IX. Emergency Operations
+57
+Task G. Approach and Landing with an Inoperative Engine (Simulated) (AMEL, AMES)
+References FAA-H-8083-2, FAA-H-8083-3; FAA-P-8740-66; POH/AFM
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with an approach and landing with an engine inoperative, including engine failure
+on final approach.
+Note: See Appendix 6: Safety of Flight and Appendix 7: Aircraft, Equipment, and
+Operational Requirements & Limitations.
+Knowledge The applicant demonstrates understanding of:
+PA.IX.G.K1 Factors affecting VMC.
+PA.IX.G.K2 VMC (red line) and VYSE (blue line).
+PA.IX.G.K3 How to identify, verify, feather, and secure an inoperative engine.
+PA.IX.G.K4 Importance of drag reduction, to include propeller feathering, gear and flap retraction, and
+the manufacturer’s recommended flight control input and its relation to zero sideslip.
+PA.IX.G.K5 Applicant responsibilities during simulated feathering.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.IX.G.R1 Failure to plan for engine failure inflight or during an approach.
+PA.IX.G.R2 Collision hazards, to include aircraft, terrain, obstacles, and wires.
+PA.IX.G.R3 Improper airplane configuration.
+PA.IX.G.R4 Low altitude maneuvering including stall, spin, or CFIT.
+PA.IX.G.R5 Distractions, loss of situational awareness, or improper task management.
+PA.IX.G.R6 Possible single-engine go-around.
+Skills The applicant demonstrates the ability to:
+PA.IX.G.S1 Promptly recognize an engine failure and maintain positive airplane control.
+PA.IX.G.S2
+Set the engine controls, reduce drag, identify and verify the inoperative engine, and
+simulate feathering of the propeller on the inoperative engine. (Evaluator should then
+establish zero thrust on the inoperative engine).
+PA.IX.G.S3 Use flight controls in the proper combination as recommended by the manufacturer or as
+required to maintain best performance, and trim as required.
+PA.IX.G.S4 Follow the manufacturer’s recommended emergency procedures.
+PA.IX.G.S5 Monitor the operating engine and make adjustments as necessary.
+PA.IX.G.S6 Maintain the manufacturer’s recommended approach airspeed +10/-5 knots, in the
+landing configuration with a stabilized approach, until landing is assured.
+PA.IX.G.S7 Make smooth, timely, and correct control application during round out and touchdown.
+PA.IX.G.S8 Touch down on the first one-third of available runway/landing surface, with no drift, and
+the airplane’s longitudinal axis aligned with and over the runway center or landing path.
+PA.IX.G.S9 Maintain directional control and appropriate crosswind correction throughout the approach
+and landing.
+PA.IX.G.S10 Complete the appropriate checklist.58
+X. Multiengine Operations
+Task A. Maneuvering with One Engine Inoperative (AMEL, AMES)
+References FAA-H-8083-2, FAA-H-8083-3; FAA-P-8740-66; POH/AFM
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with maneuvering with one engine inoperative.
+Note: See Appendix 6: Safety of Flight and Appendix 7: Aircraft, Equipment, and
+Operational Requirements & Limitations.
+Knowledge The applicant demonstrates understanding of:
+PA.X.A.K1 Factors affecting VMC.
+PA.X.A.K2 VMC (red line) and VYSE (blue line).
+PA.X.A.K3 How to identify, verify, feather, and secure an inoperative engine.
+PA.X.A.K4 Importance of drag reduction, to include propeller feathering, gear and flap retraction, the
+manufacturer’s recommended flight control input and its relation to zero sideslip.
+PA.X.A.K5 Feathering, securing, unfeathering, and restarting.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.X.A.R1 Failure to plan for engine failure during flight.
+PA.X.A.R2 Collision hazards, to include aircraft, terrain, obstacles, and wires.
+PA.X.A.R3 Improper airplane configuration.
+PA.X.A.R4 Low altitude maneuvering including stall, spin, or CFIT.
+PA.X.A.R5 Distractions, loss of situational awareness, or improper task management.
+Skills The applicant demonstrates the ability to:
+PA.X.A.S1 Recognize an engine failure, maintain control, use manufacturer’s memory item
+procedures, and utilize appropriate emergency procedures.
+PA.X.A.S2 Set the engine controls, identify and verify the inoperative engine, and feather the
+appropriate propeller.
+PA.X.A.S3 Use flight controls in the proper combination as recommended by the manufacturer, or as
+required to maintain best performance, and trim as required.
+PA.X.A.S4 Attempt to determine and resolve the reason for the engine failure.
+PA.X.A.S5 Secure the inoperative engine and monitor the operating engine and make necessary
+adjustments.
+PA.X.A.S6 Restart the inoperative engine using manufacturer’s restart procedures.
+PA.X.A.S7 Maintain altitude ±100 feet or a minimum sink rate if applicable, airspeed ±10 knots, and
+headings ±10°.
+PA.X.A.S8 Complete the appropriate checklist.X. Multiengine Operations
+59
+Task B. VMC Demonstration (AMEL, AMES)
+References FAA-H-8083-2, FAA-H-8083-3; FAA-P-8740-66; POH/AFM
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with a VMC demonstration.
+Note: See Appendix 6: Safety of Flight and Appendix 7: Aircraft, Equipment, and
+Operational Requirements & Limitations.
+Knowledge The applicant demonstrates understanding of:
+PA.X.B.K1 Factors affecting VMC and how VMC differs from stall speed (VS).
+PA.X.B.K2 VMC (red line), VYSE (blue line), and VSSE (safe single-engine speed).
+PA.X.B.K3 Cause of loss of directional control at airspeeds below VMC.
+PA.X.B.K4 Proper procedures for maneuver entry and safe recovery.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.X.B.R1 Improper airplane configuration.
+PA.X.B.R2 Maneuvering with one engine inoperative.
+PA.X.B.R3 Distractions, loss of situational awareness, or improper task management.
+Skills The applicant demonstrates the ability to:
+PA.X.B.S1 Configure the airplane in accordance with the manufacturer’s recommendations, in the
+absence of the manufacturer’s recommendations, then at VSSE/VYSE, as appropriate, and:
+PA.X.B.S1a a. Landing gear retracted
+PA.X.B.S1b b. Flaps set for takeoff
+PA.X.B.S1c c. Cowl flaps set for takeoff
+PA.X.B.S1d d. Trim set for takeoff
+PA.X.B.S1e e. Propellers set for high RPM
+PA.X.B.S1f f. Power on critical engine reduced to idle and propeller windmilling
+PA.X.B.S1g g. Power on operating engine set to takeoff or maximum available power
+PA.X.B.S2 Establish a single-engine climb attitude with the airspeed at approximately 10 knots
+above VSSE.
+PA.X.B.S3 Establish a bank angle not to exceed 5° toward the operating engine, as required for best
+performance and controllability.
+PA.X.B.S4
+Increase the pitch attitude slowly to reduce the airspeed at approximately 1 knot per
+second while applying rudder pressure to maintain directional control until full rudder is
+applied.
+PA.X.B.S5 Recognize indications of loss of directional control, stall warning, or buffet.
+PA.X.B.S6
+Recover promptly by simultaneously reducing power sufficiently on the operating engine,
+decreasing the angle of attack as necessary to regain airspeed and directional control,
+and without adding power on the simulated failed engine.
+PA.X.B.S7 Recover within 20° of entry heading.
+PA.X.B.S8 Advance power smoothly on the operating engine and accelerate to VSSE/VYSE, as
+appropriate, +10/-5 knots during recovery.X. Multiengine Operations
+60
+Task C. One Engine Inoperative (Simulated) (solely by Reference to Instruments) During
+Straight-and-Level Flight and Turns (AMEL, AMES)
+References FAA-H-8083-2, FAA-H-8083-3; FAA-P-8740-66; POH/AFM
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with flight solely by reference to instruments with one engine inoperative.
+Note: See Appendix 6: Safety of Flight and Appendix 7: Aircraft, Equipment, and
+Operational Requirements & Limitations.
+Knowledge The applicant demonstrates understanding of:
+PA.X.C.K1 Procedures used if engine failure occurs during straight-and-level flight and turns while on
+instruments.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.X.C.R1 Failure to identify the inoperative engine.
+PA.X.C.R2 Inability to climb or maintain altitude with an inoperative engine.
+PA.X.C.R3 Low altitude maneuvering including stall, spin, or CFIT.
+PA.X.C.R4 Distractions, loss of situational awareness, or improper task management.
+PA.X.C.R5 Fuel management during single-engine operation.
+Skills The applicant demonstrates the ability to:
+PA.X.C.S1 Promptly recognize an engine failure and maintain positive airplane control.
+PA.X.C.S2
+Set the engine controls, reduce drag, identify and verify the inoperative engine, and
+simulate feathering of the propeller on the inoperative engine. (Evaluator should then
+establish zero thrust on the inoperative engine.)
+PA.X.C.S3 Establish the best engine-inoperative airspeed and trim the airplane.
+PA.X.C.S4 Use flight controls in the proper combination as recommended by the manufacturer, or as
+required to maintain best performance, and trim as required.
+PA.X.C.S5 Verify the prescribed checklist procedures normally used for securing the inoperative
+engine.
+PA.X.C.S6 Attempt to determine and resolve the reason for the engine failure.
+PA.X.C.S7 Monitor engine functions and make necessary adjustments.
+PA.X.C.S8 Maintain the specified altitude ±100 feet or minimum sink rate if applicable, airspeed ±10
+knots, and the specified heading ±10°.
+PA.X.C.S9 Assess the airplane’s performance capability and decide an appropriate action to ensure
+a safe landing.
+PA.X.C.S10 Avoid loss of airplane control or attempted flight contrary to the engine-inoperative
+operating limitations of the airplane.
+PA.X.C.S11 Utilize SRM.X. Multiengine Operations
+61
+Task D. Instrument Approach and Landing with an Inoperative Engine (Simulated) (solely
+by Reference to Instruments) (AMEL, AMES)
+References FAA-H-8083-2, FAA-H-8083-3; FAA-P-8740-66; POH/AFM
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with executing a published instrument approach solely by reference to
+instruments with one engine inoperative.
+Note: See Appendix 6: Safety of Flight and Appendix 7: Aircraft, Equipment, and
+Operational Requirements & Limitations.
+Knowledge The applicant demonstrates understanding of:
+PA.X.D.K1 Instrument approach procedures with one engine inoperative.
+Risk
+Management The applicant demonstrates the ability to identify, assess, and mitigate risks, encompassing:
+PA.X.D.R1 Failure to plan for engine failure during approach and landing.
+PA.X.D.R2 Collision hazards, to include aircraft, terrain, obstacles, wires, vehicles, vessels, persons,
+and wildlife.
+PA.X.D.R3 Improper airplane configuration.
+PA.X.D.R4 Low altitude maneuvering including stall, spin, or CFIT.
+PA.X.D.R5 Distractions, loss of situational awareness, or improper task management.
+PA.X.D.R6 Performing a go-around/rejected landing with an engine failure.
+Skills The applicant demonstrates the ability to:
+PA.X.D.S1 Promptly recognize engine failure and maintain positive airplane control.
+PA.X.D.S2
+Set the engine controls, reduce drag, identify and verify the inoperative engine, and
+simulate feathering of the propeller on the inoperative engine. (Evaluator should then
+establish zero thrust on the inoperative engine).
+PA.X.D.S3 Use flight controls in the proper combination as recommended by the manufacturer, or as
+required to maintain best performance, and trim as required.
+PA.X.D.S4 Follow the manufacturer’s recommended emergency procedures.
+PA.X.D.S5 Monitor the operating engine and make adjustments as necessary.
+PA.X.D.S6 Request and follow an actual or a simulated ATC clearance for an instrument approach.
+PA.X.D.S7 Maintain altitude ±100 feet or minimum sink rate if applicable, airspeed ±10 knots, and
+selected heading ±10°.
+PA.X.D.S8
+Establish a rate of descent that will ensure arrival at the MDA or DA/DH with the airplane
+in a position from which a descent to a landing on the intended runway can be made,
+either straight in or circling as appropriate.
+PA.X.D.S9 On final approach segment, maintain vertical (as applicable) and lateral guidance within
+¾-scale deflection.
+PA.X.D.S10 Avoid loss of airplane control, or attempted flight contrary to the operating limitations of
+the airplane.
+PA.X.D.S11 Comply with the published criteria for the aircraft approach category if circling.
+PA.X.D.S12 Execute a normal landing.
+PA.X.D.S13 Complete the appropriate checklist.62
+XI. Night Operations
+Task A. Night Preparation
+References FAA-H-8083-2, FAA-H-8083-3, FAA-H-8083-25; AIM; POH/AFM
+Objective To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with night operations.
+Knowledge The applicant demonstrates understanding of:
+PA.XI.A.K1 Physiological aspects of vision related to night flying.
+PA.XI.A.K2 Lighting systems identifying airports, runways, taxiways and obstructions, as well as pilot
+controlled lighting.
+PA.XI.A.K3 Airplane equipment and lighting requirements for night operations.
+PA.XI.A.K4 Personal equipment essential for night flight.
+PA.XI.A.K5 Night orientation, navigation, and chart reading techniques.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.XI.A.R1 Collision hazards, to include aircraft, terrain, obstacles, and wires.
+PA.XI.A.R2 Distractions, loss of situational awareness, or improper task management.
+PA.XI.A.R3 Hazards specific to night flying.
+Skills
+N/A
+Note: Not generally evaluated in flight. If the practical test is conducted at night, all ACS
+Tasks are evaluated in that environment, thus there is no need for explicit Task
+elements to exist here.63
+XII. Postflight Procedures
+Task A. After Landing, Parking and Securing (ASEL, AMEL)
+References FAA-H-8083-2, FAA-H-8083-3; POH/AFM
+Objective To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with after landing, parking, and securing procedures.
+Knowledge The applicant demonstrates understanding of:
+PA.XII.A.K1 Airplane shutdown, securing, and postflight inspection.
+PA.XII.A.K2 Documenting in-flight/postflight discrepancies.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.XII.A.R1 Inappropriate activities and distractions.
+PA.XII.A.R2 Confirmation or expectation bias as related to taxi instructions.
+PA.XII.A.R3 Airport specific security procedures.
+PA.XII.A.R4 Disembarking passengers.
+Skills The applicant demonstrates the ability to:
+PA.XII.A.S1 Utilize runway incursion avoidance procedures.
+PA.XII.A.S2 Park in an appropriate area, considering the safety of nearby persons and property.
+PA.XII.A.S3 Complete the appropriate checklist.
+PA.XII.A.S4 Conduct a postflight inspection and document discrepancies and servicing requirements,
+if any.
+PA.XII.A.S5 Secure the airplane.XII. Postflight Procedures
+64
+Task B. Seaplane Post-Landing Procedures (ASES, AMES)
+References FAA-H-8083-2, FAA-H-8083-23; POH/AFM
+Objective
+To determine that the applicant exhibits satisfactory knowledge, risk management, and skills
+associated with anchoring, docking, mooring, and ramping/beaching.
+Note: The evaluator must select at least one after-landing procedure (anchoring, docking
+and mooring, or ramping/beaching).
+Knowledge The applicant demonstrates understanding of:
+PA.XII.B.K1 Mooring.
+PA.XII.B.K2 Docking.
+PA.XII.B.K3 Anchoring.
+PA.XII.B.K4 Beaching/ramping.
+PA.XII.B.K5 Postflight inspection, recording of in-flight/postflight discrepancies.
+Risk
+Management The applicant demonstrates the ability to identify, assess and mitigate risks, encompassing:
+PA.XII.B.R1 Inappropriate activities and distractions.
+PA.XII.B.R2 Confirmation or expectation bias as related to taxi instructions.
+PA.XII.B.R3 Seaplane base specific security procedures, if applicable.
+PA.XII.B.R4 Disembarking passengers.
+Skills The applicant demonstrates the ability to:
+PA.XII.B.S1
+If anchoring, select a suitable area considering seaplane movement, water depth, tide,
+wind, and weather changes. Use an adequate number of anchors and lines of sufficient
+strength and length to ensure the seaplane’s security.
+PA.XII.B.S2 If not anchoring, approach the dock/mooring buoy or beach/ramp in the proper direction
+and at a safe speed, considering water depth, tide, current, and wind.
+PA.XII.B.S3 Complete the appropriate checklist.
+PA.XII.B.S4 Conduct a postflight inspection and document discrepancies and servicing requirements, if
+any.
+PA.XII.B.S5
+Secure the seaplane considering the effect of wind, waves, and changes in water level,
+or comply with applicable after landing, parking and securing if operating an amphibious
+airplane on land.

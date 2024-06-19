@@ -1,0 +1,29 @@
+{
+  "Preflight Preparation": {
+    "ID": "I",
+    "Tasks": {
+      "Pilot Qualifications": {
+        "ID": "A",
+        "References": [
+          "14 CFR parts 61",
+          "68",
+          "91",
+          "FAA-H-8083-2",
+          "FAA-H-8083-25",
+          "AC 68-1"
+        ],
+        "Objective": "To determine that the applicant exhibits satisfactory knowledge, risk management, and skills\nassociated with airman and medical certificates including privileges, limitations, currency,\nand operating as pilot-in-command (PIC) as a private pilot.",
+        "Knowledge": {
+          "K1": "Certification requirements, recent flight experience, and recordkeeping.",
+          "K3": "Medical certificates: class, expiration, privileges, temporary disqualifications."
+        },
+        "Risk": {
+          "R1": "Failure to distinguish proficiency versus currency."
+        },
+        "Skills": {
+          "S1": "Apply requirements to act as PIC under Visual Flight Rules (VFR) in a scenario given by the evaluator."
+        }
+      }
+    }
+  }
+}
